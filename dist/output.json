@@ -1,0 +1,6156 @@
+{
+"admission": {
+"abortdate": " Abort date"
+},
+"admission": {
+"address": " ADDRESS"
+},
+"admission": {
+"addressm": " Address"
+},
+"admission": {
+"admission": " Admission"
+},
+"admission": {
+"admissionanddischarge": " Admission / Discharge"
+},
+"admission": {
+"admissiondate": " Admission date *"
+},
+"admission": {
+"admissionm": " ADMISSION"
+},
+"admission": {
+"admissionnotes": " Admission notes"
+},
+"admission": {
+"admissionstatus": " Admission status"
+},
+"admission": {
+"admissiontype": " Admission type *"
+},
+"admission": {
+"admitted": " Admitted"
+},
+"admission": {
+"age": " Age"
+},
+"admission": {
+"agem": " AGE"
+},
+"admission": {
+"all": " All"
+},
+"admission": {
+"alreadyexists": " already exists"
+},
+"admission": {
+"and": " and"
+},
+"admission": {
+"beddays": " Bed Days"
+},
+"admission": {
+"bill": " Bill"
+},
+"admission": {
+"bloodtype": " Blood type"
+},
+"admission": {
+"bloodtypeis": " Blood type is"
+},
+"admission": {
+"bloodtypeisunknown": " unknown"
+},
+"admission": {
+"cannotmergeadmittedpatients": " Cannot merge admitted patients"
+},
+"admission": {
+"cannotmergewithpendingbills": " Cannot merge with pending bills"
+},
+"admission": {
+"check": {
+"operationdate": " Please check the operations dates"
+}
+},
+"admission": {
+"city": " City"
+},
+"admission": {
+"continue": " Continue?"
+},
+"admission": {
+"controldaten2controldaten1notfound": " Control date n.2: control date n.1 not found"
+},
+"admission": {
+"controln1date": " Control n.1 date"
+},
+"admission": {
+"controln1datenodeliverydatefound": " Control n.1 date: no delivery date found"
+},
+"admission": {
+"controln2date": " Control n.2 date"
+},
+"admission": {
+"count": " Count"
+},
+"admission": {
+"data": " Data"
+},
+"admission": {
+"deleteadmission": " Delete admission"
+},
+"admission": {
+"deletepatient": " Delete patient"
+},
+"admission": {
+"deleteselectedadmission": " Delete selected admission?"
+},
+"admission": {
+"deleteselectedopd": " Delete selected OPD?"
+},
+"admission": {
+"delivery": " Delivery"
+},
+"admission": {
+"deliverydate": " Delivery date"
+},
+"admission": {
+"deliveryresultype": " Delivery result type"
+},
+"admission": {
+"deliverytype": " Delivery type"
+},
+"admission": {
+"diagnosis": " DIAGNOSIS"
+},
+"admission": {
+"diagnosisin": " Diagnosis -IN-"
+},
+"admission": {
+"diagnosisinm": " DIAGNOSIS IN"
+},
+"admission": {
+"diagnosisinstar": " Diagnosis -IN- *"
+},
+"admission": {
+"diagnosisout": " Diagnosis -OUT-"
+},
+"admission": {
+"diagnosisoutm": " DIAGNOSIS OUT"
+},
+"admission": {
+"diagnosisoutsameasdiagnosisin": " Diagnosis OUT same as Diagnosis IN?"
+},
+"admission": {
+"differentnames": " Different names"
+},
+"admission": {
+"discharge": " DISCHARGE"
+},
+"admission": {
+"dischargedate": " Discharge date"
+},
+"admission": {
+"dischargedatemustbeafteradmissiondate": " Discharge date must be after admission date"
+},
+"admission": {
+"dischargetype": " Discharge type"
+},
+"admission": {
+"doyouwanttooverwritethedata": " Do you want to overwrite the data?"
+},
+"admission": {
+"editadmission": " Edit admission"
+},
+"admission": {
+"editadmissionrecord": " Edit admission record"
+},
+"admission": {
+"editpatient": " Edit Patient"
+},
+"admission": {
+"education": " Education"
+},
+"admission": {
+"examination": " Examination"
+},
+"admission": {
+"fatherisalive": " Father is alive"
+},
+"admission": {
+"fatherisdead": " Father is dead"
+},
+"admission": {
+"female": " Female"
+},
+"admission": {
+"filtering": " Filtering...."
+},
+"admission": {
+"fromhealthunit": " From Health Unit"
+},
+"admission": {
+"futuredatenotallowed": " future date not allowed, please insert a valid discharge date"
+},
+"admission": {
+"hasinsuranceno": " No"
+},
+"admission": {
+"hasinsuranceyes": " Yes"
+},
+"admission": {
+"indicatesrequiredfields": " * Indicates required fields"
+},
+"admission": {
+"ininserteddatepatientwasalreadyadmitted": " in inserted date patient was already admitted"
+},
+"admission": {
+"insurance": " Insurance"
+},
+"admission": {
+"intheselecteddatepatientwasadmittedagain": " in the selected date patient was admitted again, please insert a valid discharge date"
+},
+"admission": {
+"invalidadmissionperiod": " invalid admission period:"
+},
+"admission": {
+"invalidoperationdate": " Invalid operation date:"
+},
+"admission": {
+"levelis": " Level is"
+},
+"admission": {
+"levelisunknown": " Level is unknown"
+},
+"admission": {
+"male": " Male"
+},
+"admission": {
+"malnutrition": " Malnutrition"
+},
+"admission": {
+"malnutritioncontrol": " Malnutrition control"
+},
+"admission": {
+"maritalstatus": " Marital Status"
+},
+"admission": {
+"maternity": " MATERNITY"
+},
+"admission": {
+"merge": " Merge"
+},
+"admission": {
+"motherisalive": " Mother is alive"
+},
+"admission": {
+"motherisdead": " Mother is dead"
+},
+"admission": {
+"name": " Name"
+},
+"admission": {
+"namem": " NAME"
+},
+"admission": {
+"negative": " Negative"
+},
+"admission": {
+"newadmission": " New admission"
+},
+"admission": {
+"newpatient": " New patient"
+},
+"admission": {
+"newunitis": " new unit is"
+},
+"admission": {
+"newweightis": " new weight is"
+},
+"admission": {
+"newweightwillbe": " new weight will be..."
+},
+"admission": {
+"newweightwillbenull": " new weight will be... null"
+},
+"admission": {
+"nextkin": " Next kin"
+},
+"admission": {
+"no": " no."
+},
+"admission": {
+"nodisease": " NO DISEASE"
+},
+"admission": {
+"notadmitted": " Not Admitted"
+},
+"admission": {
+"notfoundasinpatientdisease": " Not found as In patient disease."
+},
+"admission": {
+"number1": " n. 1"
+},
+"admission": {
+"number2": " n. 2"
+},
+"admission": {
+"number3": " n. 3"
+},
+"admission": {
+"oldweightis": " old weight is"
+},
+"admission": {
+"opd": " OPD"
+},
+"admission": {
+"opdhasnoconcernwithmalnutrition": " OPDs has no concern with malnutrition"
+},
+"admission": {
+"operation": " Operation"
+},
+"admission": {
+"operationdate": " Operation date"
+},
+"admission": {
+"operationm": " OPERATION"
+},
+"admission": {
+"operationresult": " Operation result"
+},
+"admission": {
+"operationtype": " Operation type"
+},
+"admission": {
+"parents": " Parents"
+},
+"admission": {
+"parentslivetoghether": " Parents live together"
+},
+"admission": {
+"parentsnotlivingtogether": " Parents not living together"
+},
+"admission": {
+"parsingnewweight": " parsing new weight ..."
+},
+"admission": {
+"patientdata": " Patient data"
+},
+"admission": {
+"patientfolder": " Clinical sheet"
+},
+"admission": {
+"patientfolder": {
+"admchart": " Admission Chart"
+}
+},
+"admission": {
+"patientfolder": {
+"dicom": " DICOM"
+}
+},
+"admission": {
+"patientfolder": {
+"dischart": " Discharge Chart"
+}
+},
+"admission": {
+"patientfolder": {
+"launchreport": " Launch Report"
+}
+},
+"admission": {
+"patientfolder": {
+"opd": " OPD"
+}
+},
+"admission": {
+"patientfolder": {
+"opdchart": " OPD Chart"
+}
+},
+"admission": {
+"patientfolder": {
+"pleaseselectanadmission": " Please select an Admission"
+}
+},
+"admission": {
+"patientfolder": {
+"pleaseselectanopd": " Please select an OPD"
+}
+},
+"admission": {
+"patientfolder": {
+"thepatientisnotyetdischarged": " The patient is not yet discharged"
+}
+},
+"admission": {
+"patientmustbeafemale": " Patient must be a female"
+},
+"admission": {
+"patientnotes": " Patient notes"
+},
+"admission": {
+"patientsbrowser": " Patients browser"
+},
+"admission": {
+"patientscannothavependingtask": " Patients cannot have pending tasks"
+},
+"admission": {
+"patientsummary": " Patient summary"
+},
+"admission": {
+"pleaseinsertacorrectprogressiveid": " Please insert a correct progressive id"
+},
+"admission": {
+"pleaseinsertadischargedate": " Please insert a discharge date"
+},
+"admission": {
+"pleaseinsertavalidabortdate": " Please insert a valid abort date"
+},
+"admission": {
+"pleaseinsertavalidabortdatebetween": " Please insert a valid abort date\n (between admission and discharge/today)"
+},
+"admission": {
+"pleaseinsertavalidadmissiondate": " Please insert a valid admission date"
+},
+"admission": {
+"pleaseinsertavalidcontroln1date": " Please insert a valid control n.1 date"
+},
+"admission": {
+"pleaseinsertavalidcontroln1datebetween": " Please insert a valid control n.1 date\n (between delivery and discharge/today)"
+},
+"admission": {
+"pleaseinsertavalidcontroln2date": " Please insert a valid control n.2 date"
+},
+"admission": {
+"pleaseinsertavalidcontroln2datebetween": " Please insert a valid control date n.2\n (between control 1 and discharge/today)"
+},
+"admission": {
+"pleaseinsertavaliddeliverydate": " Please insert a valid delivery date"
+},
+"admission": {
+"pleaseinsertavaliddeliverydatebetween": " Please insert a valid delivery date\n (between admission and discharge/today)"
+},
+"admission": {
+"pleaseinsertavaliddischargedate": " Please insert a valid discharge date"
+},
+"admission": {
+"pleaseinsertavalidoperationdate": " Please insert a valid operation date"
+},
+"admission": {
+"pleaseinsertavalidoperationdatebetween": " Please insert a valid operation date\n (between admission and discharge/today)"
+},
+"admission": {
+"pleaseinsertavalidunitvalue": " please insert a valid unit value"
+},
+"admission": {
+"pleaseinsertavalidvisitdate": " Please insert a valid visit date"
+},
+"admission": {
+"pleaseinsertavalidvisitdatebetween": " Please insert a valid visit date\n (between admission and discharge/today)"
+},
+"admission": {
+"pleaseinsertavalidweightvalue": " Please insert a valid weight value"
+},
+"admission": {
+"pleaseinsertavalidweightvaluemust": " Please insert a valid weight value (must be greater than zero)"
+},
+"admission": {
+"pleaseselectatleastfirstdiagnosisin": " Please select at least first Diagnosis -IN-"
+},
+"admission": {
+"pleaseselectatleastfirstdiagnosisout": " Please select at least first Diagnosis -OUT-"
+},
+"admission": {
+"pleaseselectavalidadmissiondate": " Please select a valid admission type"
+},
+"admission": {
+"pleaseselectavaliddischargetype": " Please select a valid discharge type"
+},
+"admission": {
+"pleaseselectavaliddiseasein": " Please select a valid Malattia -IN-"
+},
+"admission": {
+"pleaseselectavalidward": " Please select a valid ward"
+},
+"admission": {
+"pleaseselectpatient": " Please select patient"
+},
+"admission": {
+"pleaseselectthefinalname": " Please select the final name"
+},
+"admission": {
+"pleaseselecttwopatients": " Please select two patients"
+},
+"admission": {
+"poor": " Poor"
+},
+"admission": {
+"positive": " Positive"
+},
+"admission": {
+"present": " present"
+},
+"admission": {
+"profession": " Profession"
+},
+"admission": {
+"progressiveinyear": " Progressive in year *"
+},
+"admission": {
+"result": " RESULT"
+},
+"admission": {
+"rich": " Rich"
+},
+"admission": {
+"searchkey": " Search Key"
+},
+"admission": {
+"select": " Select"
+},
+"admission": {
+"selectedpatientshavedifferentsex": " Selected patients have different sex"
+},
+"admission": {
+"sex": " SEX"
+},
+"admission": {
+"sexm": " Sex"
+},
+"admission": {
+"status": " Status"
+},
+"admission": {
+"statusm": " STATUS"
+},
+"admission": {
+"stop": " stop"
+},
+"admission": {
+"taxcode": " Tax Number ID"
+},
+"admission": {
+"telephone": " Telephone"
+},
+"admission": {
+"theadmissionbetween": " the admission between  \n"
+},
+"admission": {
+"theoperationdatebetween": " the operation date must be between"
+},
+"admission": {
+"theoperationdatenewerthan": " the operation date must be more recent than"
+},
+"admission": {
+"thepatientwasnotyetbornatselecteddate": " The patient was not yet born at selected date!!!"
+},
+"admission": {
+"therapy": " Therapy"
+},
+"admission": {
+"thereismorethanonependingbillforthispatientcontinue": " There is more than one pending bill for this patient, continue?"
+},
+"admission": {
+"thereismorethanonependingbillforthispatientcontinuecreateanother": " There is more than one pending bill for this patient, do you want to create another?"
+},
+"admission": {
+"thereismorethanonependingbillforthispatientopenlastopenenedbill": " There is more than one pending bill for this patient, do you want to open last pending bill?"
+},
+"admission": {
+"theselectedadmissionhasnoconcernwithmalnutrit": " The selected Admission has no concern with malnutrition"
+},
+"admission": {
+"theselectedadmissionhasnoconcernwithmalnutrition": " The selected admission has no concern with malnutrition"
+},
+"admission": {
+"thispatienthasapendingbill": " This Patient has already a pending bill"
+},
+"admission": {
+"thispatienthasapendingbillcreateanother": " This Patient has already a pending bill. Do you want to create another?"
+},
+"admission": {
+"transfusionalunit": " Transfusional Unit"
+},
+"admission": {
+"treatmenttype": " Treatment type"
+},
+"##admission": {
+"trsfUnit": " Transfusional unit"
+},
+"admission": {
+"unknown": " unknown"
+},
+"admission": {
+"visitdate": " Visit date"
+},
+"admission": {
+"ward": " Ward *"
+},
+"admission": {
+"wardis": " ward is..."
+},
+"admission": {
+"wards": " WARD"
+},
+"admission": {
+"wardwithnobedsavailable": " Ward without free beds"
+},
+"admission": {
+"weight": " Weight"
+},
+"admission": {
+"weneed": " we need"
+},
+"admission": {
+"willbedeletedandhisherhistorytransferedtothepatient": " will be deleted and his/her history transfered to the Patient"
+},
+"admission": {
+"withthisoperationthepatient": " With this operation the Patient"
+},
+"admission": {
+"youareeditinganoldadmission": " You are editing an old admission"
+},
+"admtype": {
+"admissiontypebrowsing": " Admission type browsing"
+},
+"admtype": {
+"codemaxchars": " Code (max 10 chars)"
+},
+"admtype": {
+"codetoolongmaxchars": " Code too long (max 10 chars)"
+},
+"admtype": {
+"deleterow": " Delete row"
+},
+"admtype": {
+"editingadmissiontyperecord": " Editing admission type record"
+},
+"admtype": {
+"newadmissiontyperecord": " New Admission Type record"
+},
+"admtype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"admtype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"agetype": {
+"adolescents": " Adolescent"
+},
+"agetype": {
+"adult": " Adult"
+},
+"agetype": {
+"agetypebrowsing": " Age Type Browsing"
+},
+"agetype": {
+"agetypeedit": " Age Type Edit"
+},
+"agetype": {
+"child": " Child"
+},
+"agetype": {
+"deleterow": " Delete record"
+},
+"agetype": {
+"earlychildhood": " Early Childhood"
+},
+"agetype": {
+"editingagetyperecord": " Edit Age Type"
+},
+"agetype": {
+"elderly": " Elderly"
+},
+"agetype": {
+"from": " From"
+},
+"agetype": {
+"insertvalidage": " Insert valid age"
+},
+"agetype": {
+"latechildhood": " Late Childhood"
+},
+"agetype": {
+"newagetyperecord": " New Age Type"
+},
+"agetype": {
+"newborn": " Newborn"
+},
+"agetype": {
+"pleaseinsertadescription": " Please insert a description"
+},
+"agetype": {
+"rangesnotdefinedpleasecheck": " Some ranges not defined, please check values"
+},
+"agetype": {
+"rangesoverlappleasecheck": " Overlapped ranges, please check values"
+},
+"agetype": {
+"to": " To"
+},
+"billbrowser": {
+"amount": " Amount"
+},
+"billbrowser": {
+"balance": " Balance"
+},
+"billbrowser": {
+"billalreadyclosed": " Bill already closed"
+},
+"billbrowser": {
+"billdeleted": " Bill Deleted"
+},
+"billbrowser": {
+"billnotyetclosed": " This bill is still open"
+},
+"billbrowser": {
+"bills": " Bills"
+},
+"billbrowser": {
+"closed": " Closed"
+},
+"billbrowser": {
+"deletebill": " Delete Bill"
+},
+"billbrowser": {
+"doyoureallywanttodeletetheselectedbill": " Do you really want to delete the selected Bill?"
+},
+"billbrowser": {
+"editbill": " Edit Bill"
+},
+"billbrowser": {
+"from": " From"
+},
+"billbrowser": {
+"fullreportallbills": " Full Report (all bills)"
+},
+"billbrowser": {
+"id": " ID"
+},
+"billbrowser": {
+"lastpayment": " Last Payment"
+},
+"billbrowser": {
+"month": " Month"
+},
+"billbrowser": {
+"newbill": " New Bill"
+},
+"billbrowser": {
+"notpaid": " Not Paid:"
+},
+"billbrowser": {
+"openbillsreport": " opened bills report"
+},
+"billbrowser": {
+"openedbillslist": " Pending Bills"
+},
+"billbrowser": {
+"othermonth": " other Month..."
+},
+"billbrowser": {
+"patient": " Patient"
+},
+"billbrowser": {
+"patientID": " Pat.ID"
+},
+"billbrowser": {
+"patientstatement": " Patient's Statement"
+},
+"billbrowser": {
+"pending": " Pending"
+},
+"billbrowser": {
+"period": " Period"
+},
+"billbrowser": {
+"periodm": " PERIOD:"
+},
+"billbrowser": {
+"pleaseselectabillfirst": " Please select a Bill first"
+},
+"billbrowser": {
+"pleaseselectamonth": " Please select a month"
+},
+"billbrowser": {
+"pleaseselectapatient": " Please select a patient"
+},
+"billbrowser": {
+"pleaseselectareport": " Please select a report"
+},
+"billbrowser": {
+"receipt": " Receipt"
+},
+"billbrowser": {
+"report": " Report"
+},
+"billbrowser": {
+"shortreportonlybaddebts": " Short Report (only BadDebts bills)"
+},
+"billbrowser": {
+"status": " Status"
+},
+"billbrowser": {
+"thismonth": " this Month"
+},
+"billbrowser": {
+"title": " Patients Bills Management"
+},
+"billbrowser": {
+"to": " To"
+},
+"billbrowser": {
+"today": " Today"
+},
+"billbrowser": {
+"todayclosure": " Today (closure)"
+},
+"billbrowser": {
+"todaym": " TODAY:"
+},
+"billbrowser": {
+"update": " Update"
+},
+"common": {
+"agepattern": " {0}y {1}m {2}d"
+},
+"common": {
+"cancel": " Cancel"
+},
+"common": {
+"close": " Close"
+},
+"common": {
+"code": " Code"
+},
+"common": {
+"codealreadyinuse": " Code already in use"
+},
+"common": {
+"codem": " CODE"
+},
+"common": {
+"codestar": " Code *"
+},
+"common": {
+"date": " Date"
+},
+"common": {
+"datefrom": " Date From:"
+},
+"common": {
+"datem": " DATE"
+},
+"common": {
+"dateto": " Date To:"
+},
+"common": {
+"delete": " Delete"
+},
+"common": {
+"deletem": " DELETE"
+},
+"common": {
+"description": " Description"
+},
+"common": {
+"descriptionm": " DESCRIPTION"
+},
+"common": {
+"descriptionstar": " Description *"
+},
+"common": {
+"doyouwanttoproceed": " Do you want to proceed?"
+},
+"common": {
+"edit": " Edit"
+},
+"common": {
+"editm": " EDIT"
+},
+"common": {
+"emailmustbevalid": " Email must be valid"
+},
+"common": {
+"excel": " Excel"
+},
+"common": {
+"from": " From"
+},
+"common": {
+"hours": " Hours"
+},
+"common": {
+"minutes": " Minutes"
+},
+"common": {
+"minutesabbr": " Min"
+},
+"common": {
+"new": " New"
+},
+"common": {
+"nodatatoshow": " No data to show"
+},
+"common": {
+"notapplicable": " N/A"
+},
+"common": {
+"notdefined": " N/D"
+},
+"common": {
+"ok": " OK"
+},
+"common": {
+"patientID": " Pat.ID"
+},
+"common": {
+"pleaseselectapatient": " Please select a patient"
+},
+"common": {
+"pleaseselectarow": " Please select a row"
+},
+"common": {
+"print": " Print"
+},
+"common": {
+"quantity": " Quantity"
+},
+"common": {
+"save": " Save"
+},
+"common": {
+"savem": " SAVE"
+},
+"common": {
+"thiscouldretrievealargeamountofdataproceed": " This could retrieve a large amount of data, proceed?"
+},
+"common": {
+"thisvaluecannotbegreaterthan": " This value cannot be greater than"
+},
+"common": {
+"thisvaluecannotbelesserthan": " This value cannot be lesser than"
+},
+"common": {
+"to": " To"
+},
+"common": {
+"today": " Today"
+},
+"common": {
+"todaym": " TODAY:"
+},
+"common": {
+"uom": {
+"bpm": " bpm"
+}
+},
+"common": {
+"uom": {
+"celsius": " C"
+}
+},
+"common": {
+"uom": {
+"centimeter": " cm"
+}
+},
+"common": {
+"uom": {
+"kg": " kg"
+}
+},
+"common": {
+"uom": {
+"meter": " m"
+}
+},
+"common": {
+"uom": {
+"mgdl": " mg/dl"
+}
+},
+"common": {
+"uom": {
+"milliliter": " ml"
+}
+},
+"common": {
+"uom": {
+"mmHg": " mmHg"
+}
+},
+"common": {
+"uom": {
+"percentage": " %"
+}
+},
+"common": {
+"ward": " Ward"
+},
+"dicom": {
+"afileinthefolderistoobigpleasesetdicommaxsizeproperty": " A file in the folder is too big. Please set 'dicom.max.size' into dicom.properties"
+},
+"dicom": {
+"delete": {
+"no": " No"
+}
+},
+"dicom": {
+"delete": {
+"request": " Are you sure you want to delete the file?"
+}
+},
+"dicom": {
+"delete": {
+"title": " Confirm delete"
+}
+},
+"dicom": {
+"delete": {
+"txt": " Delete DICOM"
+}
+},
+"dicom": {
+"delete": {
+"yes": " Yes"
+}
+},
+"dicom": {
+"err": " Error"
+},
+"dicom": {
+"image": {
+"frames": " Frames"
+}
+},
+"dicom": {
+"image": {
+"patient": {
+"age": " Age"
+}
+}
+},
+"dicom": {
+"image": {
+"patient": {
+"dicom": " DICOM Patient"
+}
+}
+},
+"dicom": {
+"image": {
+"patient": {
+"name": " Name"
+}
+}
+},
+"dicom": {
+"image": {
+"patient": {
+"oh": " Patient"
+}
+}
+},
+"dicom": {
+"image": {
+"patient": {
+"sex": " Sex"
+}
+}
+},
+"dicom": {
+"image": {
+"patient": {
+"surname": " Last Name"
+}
+}
+},
+"dicom": {
+"image": {
+"serie": {
+"n": " Number series"
+}
+}
+},
+"dicom": {
+"image": {
+"studyid": " Study id"
+}
+},
+"dicom": {
+"image": {
+"zoom": " Zoom"
+}
+},
+"dicom": {
+"load": {
+"err": " The file is not in DICOM format"
+}
+},
+"dicom": {
+"load": {
+"txt": " Load DICOM"
+}
+},
+"dicom": {
+"loading": " Loading..."
+},
+"dicom": {
+"manager": {
+"err": " Generic Error"
+}
+},
+"dicom": {
+"noconn": " Unable to establish connection to the database"
+},
+"dicom": {
+"nofile": " Configuration file not found"
+},
+"dicom": {
+"open": {
+"txt": " Open DICOM"
+}
+},
+"dicom": {
+"thefileistoobigpleasesetdicommaxsizeproperty": " The file is too big. Please set 'dicom.max.size' into dicom.properties"
+},
+"dicom": {
+"thumbnail": {
+"age": " Age"
+}
+},
+"dicom": {
+"thumbnail": {
+"category": " Category"
+}
+},
+"dicom": {
+"thumbnail": {
+"modality": " Modality"
+}
+},
+"dicom": {
+"thumbnail": {
+"patient": " Patient"
+}
+},
+"dicom": {
+"thumbnail": {
+"series": " Series"
+}
+},
+"dicom": {
+"thumbnail": {
+"sernum": " Series number"
+}
+},
+"dicom": {
+"thumbnail": {
+"study": " Study"
+}
+},
+"dicom": {
+"title": " DICOM Viewer"
+},
+"dicom": {
+"unknownformat": " Unknown file format, please inform the developers"
+},
+"dicom": {
+"unknownsizeformatpleasesetdicommaxsizeproperty": " Unknown size format, please set 'dicom.max.size' value into dicom.properties"
+},
+"dicomtype": {
+"codem": " Code"
+},
+"dicomtype": {
+"codemaxchars": " Code (max 3 chars)"
+},
+"dicomtype": {
+"codetoolongmaxchars": " Code too long (max 3 chars)"
+},
+"dicomtype": {
+"deleterow": " Delete row"
+},
+"dicomtype": {
+"dicomtypebrowsing": " Dicom type browsing"
+},
+"dicomtype": {
+"editingdicomtyperecord": " Editing Dicom Type record"
+},
+"dicomtype": {
+"newdicomtyperecord": " New Dicom type record"
+},
+"dicomtype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"dicomtype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"dicomtype": {
+"youcannotdeletethisrecord": " You can not delete this record"
+},
+"disctype": {
+"codem": " Code"
+},
+"disctype": {
+"codemaxchars": " Code (max 10 chars)"
+},
+"disctype": {
+"codetoolongmaxchars": " Code too long (max 10 chars)"
+},
+"disctype": {
+"deleterow": " Delete row"
+},
+"disctype": {
+"dischargetypebrowsing": " Discharge type browsing"
+},
+"disctype": {
+"editingdischargetyperecord": " Editing Discharge type record"
+},
+"disctype": {
+"newdischargetyperecord": " New discharge type record"
+},
+"disctype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"disctype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"disctype": {
+"youcannotdeletethisrecord": " You can not delete this record"
+},
+"disease": {
+"allm": " ALL"
+},
+"disease": {
+"codetoolongmaxchars": " Code too long (max 10 chars)"
+},
+"disease": {
+"deletedisease": " Delete disease"
+},
+"disease": {
+"diseasealreadypresent": " Disease already present"
+},
+"disease": {
+"diseasesbrowser": " Diseases browser ("
+},
+"disease": {
+"doyouwanttooverwritethedata": " Do you want to overwrite the data?"
+},
+"disease": {
+"editdisease": " Edit disease ("
+},
+"disease": {
+"ipdin": " IPD -IN-"
+},
+"disease": {
+"ipdout": " IPD -OUT-"
+},
+"disease": {
+"namem": " NAME"
+},
+"disease": {
+"newdisease": " New disease ("
+},
+"disease": {
+"opd": " OPD"
+},
+"disease": {
+"pleaseinsertacode": " Please insert a code"
+},
+"disease": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"disease": {
+"select": " Select"
+},
+"disease": {
+"selecttype": " Select type"
+},
+"disease": {
+"type": " Type"
+},
+"disease": {
+"typem": " TYPE"
+},
+"distype": {
+"codemaxchars": " Code (max 2 chars)"
+},
+"distype": {
+"codetoolongmaxchars": " Code too long (max 2 chars)"
+},
+"distype": {
+"deletediseasetype": " Delete disease type"
+},
+"distype": {
+"diseasetypebrowsing": " Disease type browsing"
+},
+"distype": {
+"editingdiseasetyperecord": " Editing disease type record"
+},
+"distype": {
+"newdiseasetyperecord": " New disease type record"
+},
+"distype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"distype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"dlvrrestype": {
+"codemaxchars": " Code (1 char)"
+},
+"dlvrrestype": {
+"codetoolongmaxchars": " Code too long (max 1 char)"
+},
+"dlvrrestype": {
+"deletedeliveryresulttype": " Delete delivery result type"
+},
+"dlvrrestype": {
+"deliveryresulttypebrowsing": " Delivery result type browsing"
+},
+"dlvrrestype": {
+"editingdeliveryresulttyperecord": " Editing delivery result type record"
+},
+"dlvrrestype": {
+"newdeliveryresulttyperecord": " New delivery result type record"
+},
+"dlvrrestype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"dlvrrestype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"dlvrtype": {
+"codemaxchars": " Code (1 char)"
+},
+"dlvrtype": {
+"codetoolongmaxchars": " Code too long (max 1 char)"
+},
+"dlvrtype": {
+"deletedeliverytype": " Delete delivery type"
+},
+"dlvrtype": {
+"deliverytypebrowsing": " Delivery type browsing"
+},
+"dlvrtype": {
+"editingdeliverytyperecord": " Editing delivery type record"
+},
+"dlvrtype": {
+"newdeliverytyperecord": " New delivery type record"
+},
+"dlvrtype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"dlvrtype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"dlvrtype": {
+"thdatacouldnotbesaved": " The data could not be saved"
+},
+"exa": {
+"all": " ALL"
+},
+"exa": {
+"changethecodebecauseisalreadyinuse": " Change the code because is already in use"
+},
+"exa": {
+"default": " Default"
+},
+"exa": {
+"defaultm": " DEFAULT"
+},
+"exa": {
+"deleteexamresult": " Delete exam result"
+},
+"exa": {
+"deletefolowingexam": " Delete following exam"
+},
+"exa": {
+"doyouwanttooverwritethedata": " Do you want to overwrite the data?"
+},
+"exa": {
+"editexam": " Edit exam"
+},
+"exa": {
+"exambrowsing": " Exam browsing"
+},
+"exa": {
+"insertdescription": " Insert description"
+},
+"exa": {
+"neweditresult": " New/Edit Result"
+},
+"exa": {
+"newexam": " New exam"
+},
+"exa": {
+"pleaseinsertcodeoranddescription": " Please insert code or/and description"
+},
+"exa": {
+"procedure": " Procedure"
+},
+"exa": {
+"procm": " PROC"
+},
+"exa": {
+"results": " Results"
+},
+"exa": {
+"select": " Select"
+},
+"exa": {
+"selecttype": " Select type"
+},
+"exa": {
+"type": " Type"
+},
+"exa": {
+"typem": " TYPE"
+},
+"examination": {
+"ap": {
+"max": " max"
+}
+},
+"examination": {
+"ap": {
+"min": " min"
+}
+},
+"examination": {
+"arterialpressure": " Arterial Pressure"
+},
+"examination": {
+"arterialpressureabbr": " AP"
+},
+"examination": {
+"auscultation": " Auscultation"
+},
+"examination": {
+"auscultation": {
+"bronchial": " Bronchial"
+}
+},
+"examination": {
+"auscultation": {
+"crackles": " Crackles"
+}
+},
+"examination": {
+"auscultation": {
+"normal": " Normal (Vescicular)"
+}
+},
+"examination": {
+"auscultation": {
+"rhonchi": " Rhonchi"
+}
+},
+"examination": {
+"auscultation": {
+"stridor": " Stridor"
+}
+},
+"examination": {
+"auscultation": {
+"unknown": " Unknown"
+}
+},
+"examination": {
+"auscultation": {
+"wheezes": " Wheezes"
+}
+},
+"examination": {
+"auscultationabbr": " AUSC"
+},
+"examination": {
+"bmi": " BMI"
+},
+"examination": {
+"bmi": {
+"normalweight": " Normal weight"
+}
+},
+"examination": {
+"bmi": {
+"obesityclassiiisevere": " Obesity Class III (severe)"
+}
+},
+"examination": {
+"bmi": {
+"obesityclassiimedium": " Obesity Class II (medium)"
+}
+},
+"examination": {
+"bmi": {
+"obesityclassilight": " Obesity Class I (light)"
+}
+},
+"examination": {
+"bmi": {
+"overweight": " Overweight"
+}
+},
+"examination": {
+"bmi": {
+"severeunderweight": " Severe Underweight"
+}
+},
+"examination": {
+"bmi": {
+"underweight": " Underweight"
+}
+},
+"examination": {
+"bowel": " Bowel"
+},
+"examination": {
+"bowel": {
+"constipation": " Constipation"
+}
+},
+"examination": {
+"bowel": {
+"diarrheal": " Diarrheal"
+}
+},
+"examination": {
+"bowel": {
+"irregular": " Irregular"
+}
+},
+"examination": {
+"bowel": {
+"regular": " Regular"
+}
+},
+"examination": {
+"bowelabbr": " B"
+},
+"examination": {
+"diuresis": " Diuresis"
+},
+"examination": {
+"diuresis": {
+"anuria": " Anuria"
+}
+},
+"examination": {
+"diuresis": {
+"frequent": " Pollakiuria"
+}
+},
+"examination": {
+"diuresis": {
+"hematuria": " Hematuria"
+}
+},
+"examination": {
+"diuresis": {
+"nocturia": " Nocturia"
+}
+},
+"examination": {
+"diuresis": {
+"oliguria": " Oliguria"
+}
+},
+"examination": {
+"diuresis": {
+"physiological": " Physiological"
+}
+},
+"examination": {
+"diuresis": {
+"pyuria": " Pyuria"
+}
+},
+"examination": {
+"diuresis": {
+"stranguria": " Stranguria"
+}
+},
+"examination": {
+"diuresisabbr": " D"
+},
+"examination": {
+"diuresisvolume24h": " Diuresis Vol 24H"
+},
+"examination": {
+"diuresisvolume24habbr": " D24H"
+},
+"examination": {
+"heartrate": " Heart Rate"
+},
+"examination": {
+"heartrateabbr": " HR"
+},
+"examination": {
+"height": " Height"
+},
+"examination": {
+"heightabbr": " (H)"
+},
+"examination": {
+"hemoglucosetest": " Hemo Glucose Test"
+},
+"examination": {
+"hgt": " HGT"
+},
+"examination": {
+"note": " Complain"
+},
+"examination": {
+"pleaseinsertavalidauscultationdescription": " Please insert a valid Auscultation description"
+},
+"examination": {
+"pleaseinsertavalidboweldescription": " Please insert a valid Bowel description"
+},
+"examination": {
+"pleaseinsertavaliddiuresisdescription": " Please insert a valid Diuresis description"
+},
+"examination": {
+"respiratoryrate": " Respiratory Rate"
+},
+"examination": {
+"respiratoryrateabbr": " RR"
+},
+"examination": {
+"respiratoryrateunit": " bpm"
+},
+"examination": {
+"saturation": " Saturation"
+},
+"examination": {
+"saturationabbr": " O2"
+},
+"examination": {
+"temperature": " Temperature"
+},
+"examination": {
+"temperatureabbr": " T"
+},
+"examination": {
+"tooltip": {
+"savepatientexamination": " Save Patient Examination"
+}
+},
+"examination": {
+"tooltip": {
+"toggleexamination": " Enable / Disable examination"
+}
+},
+"examination": {
+"weight": " Weight"
+},
+"examination": {
+"weightabbr": " (W)"
+},
+"exams": {
+"find": " Search"
+},
+"exatype": {
+"codemaxchars": " Code (max 2 chars)"
+},
+"exatype": {
+"codetoolongmaxchars": " Code too long (max 2 chars)"
+},
+"exatype": {
+"deleteexamtype": " Delete exam type"
+},
+"exatype": {
+"editexamtype": " Edit exam type"
+},
+"exatype": {
+"examtypebrowser": " Exam types browser"
+},
+"exatype": {
+"newexamtype": " New exam type"
+},
+"exatype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"exatype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"genericreportbill": {
+"doyouwanttoprintreceipt": " Do you want to print a receipt?"
+},
+"help": {
+"pdfviewernotfound": " PDF Viewer not found.\nThe User's Guide is located in the Documents folder."
+},
+"help": {
+"pdfviewernotfoundoruserguidenotfound": " PDF Viewer not found or User Guide not found in the Documents folder"
+},
+"help": {
+"userguidenotfound": " User Guide not found in the Documents folder"
+},
+"hospital": " Open Hospital"
+},
+"hospital": {
+"address": " Address"
+},
+"hospital": {
+"city": " City"
+},
+"hospital": {
+"currencycod": " Currency Cod"
+},
+"hospital": {
+"emailaddress": " Email address"
+},
+"hospital": {
+"faxnumber": " Fax number"
+},
+"hospital": {
+"hospitalinformations": " Hospital informations"
+},
+"hospital": {
+"name": " Name"
+},
+"hospital": {
+"savechanges": " Save changes"
+},
+"hospital": {
+"telephone": " Telephone"
+},
+"hospital": {
+"update": " Update"
+},
+"lab": {
+"age": " Age"
+},
+"lab": {
+"all": " All"
+},
+"lab": {
+"allnegative": " All Negative"
+},
+"lab": {
+"blood": " Blood"
+},
+"lab": {
+"cfs": " CFS"
+},
+"lab": {
+"datapatient": " Patient's data"
+},
+"lab": {
+"deletefollowinglabexam": " Delete following lab exam"
+},
+"lab": {
+"editlaboratoryexam": " Edit laboratory exam"
+},
+"lab": {
+"errorreleasingconnection": " Error releasing connection"
+},
+"lab": {
+"errorrollbackingconnection": " Error rollbacking connection"
+},
+"lab": {
+"exam": " Exam"
+},
+"lab": {
+"examdate": " Exam date"
+},
+"lab": {
+"examm": " EXAM"
+},
+"lab": {
+"exporttopdffile": " Export To *.pdf file"
+},
+"lab": {
+"film": " Film"
+},
+"lab": {
+"from": " From"
+},
+"lab": {
+"greaterthan": " Greater than 5"
+},
+"lab": {
+"high": " High"
+},
+"lab": {
+"in": " In"
+},
+"lab": {
+"insertvalidage": " Insert valid age"
+},
+"lab": {
+"laboratorybrowsing": " Laboratory browsing"
+},
+"lab": {
+"laboratoryprinting": " Laboratory printing"
+},
+"lab": {
+"lessthan": " Less than 5"
+},
+"lab": {
+"low": " Low"
+},
+"lab": {
+"material": " Material"
+},
+"lab": {
+"multipleresults": " Multiple results"
+},
+"lab": {
+"n": " N"
+},
+"lab": {
+"name": " Name"
+},
+"lab": {
+"negative": " Negative"
+},
+"lab": {
+"newlaboratoryexam": " New laboratory exam"
+},
+"lab": {
+"nopatientselectedprintempylabel": " No patient selected, print generic labels?"
+},
+"lab": {
+"note": " Note"
+},
+"lab": {
+"notreactive": " Not reactive"
+},
+"lab": {
+"openwithjasperReport": " Open with Jasper report"
+},
+"lab": {
+"p": " P"
+},
+"lab": {
+"patient": " Patient"
+},
+"lab": {
+"patientcode": " P. Code"
+},
+"lab": {
+"pleaseinsertavalidexamdate": " Please insert a valid exam date"
+},
+"lab": {
+"pleaseinsertexamdate": " Please insert exam date."
+},
+"lab": {
+"pleaseinsertiforipdoroforopd": " Please insert <I> for IPD or <O> for OPD"
+},
+"lab": {
+"pleaseinsertmformaleorfforfemale": " Please insert <M> for male or <F> for female."
+},
+"lab": {
+"pleaseselectamaterial": " Please select a material"
+},
+"lab": {
+"pleaseselectanexam": " Please select an exam"
+},
+"lab": {
+"pleaseselectapatient": " Please select a patient"
+},
+"lab": {
+"positive": " Positive"
+},
+"lab": {
+"print": " Print"
+},
+"lab": {
+"printreport": " Print report"
+},
+"lab": {
+"printtable": " Print table"
+},
+"lab": {
+"reactive": " Reactive"
+},
+"lab": {
+"registationdate": " Registation date"
+},
+"lab": {
+"result": " Result"
+},
+"lab": {
+"resultm": " RESULT"
+},
+"lab": {
+"search": " Search"
+},
+"lab": {
+"selectanexam": " Select an exam"
+},
+"lab": {
+"selectapatient": " Select a patient"
+},
+"lab": {
+"sexmf": " Sex (M/F)"
+},
+"lab": {
+"sputum": " Sputum"
+},
+"lab": {
+"stool": " Stool"
+},
+"lab": {
+"swabs": " Swabs"
+},
+"lab": {
+"tissues": " Tissues"
+},
+"lab": {
+"to": " To"
+},
+"lab": {
+"undefined": " Undefined"
+},
+"lab": {
+"unknownprocedure": " Unknown Procedure"
+},
+"lab": {
+"urine": " Urine"
+},
+"labnew": {
+"changepatient": " Change Patient"
+},
+"labnew": {
+"exam": " Exam"
+},
+"labnew": {
+"examhasbeenchangedwouldyouliketosavechanges": " Exam has been changed\nWould you like to save changes?"
+},
+"labnew": {
+"material": " Material"
+},
+"labnew": {
+"multipleresults": " Multiple results"
+},
+"labnew": {
+"noexamsinserted": " No Exams inserted"
+},
+"labnew": {
+"note": " Note"
+},
+"labnew": {
+"pickpatient": " Find Patient"
+},
+"labnew": {
+"pleaseinsertadate": " Please insert a date."
+},
+"labnew": {
+"pleaseinsertavalidvalue": " Insert a valid value"
+},
+"labnew": {
+"pleaseselectanexam": " Please select an Exam"
+},
+"labnew": {
+"pleaseselectapatient": " Please select a Patient"
+},
+"labnew": {
+"printlabel": " Print Label"
+},
+"labnew": {
+"remove": " Remove"
+},
+"labnew": {
+"result": " Result"
+},
+"labnew": {
+"selectamaterial": " Select a Material"
+},
+"labnew": {
+"selectanexam": " Select an Exam"
+},
+"labnew": {
+"selectaresult": " Select a Result"
+},
+"labnew": {
+"someexamswithoutresultpleasecheck": " Some Exams without Results\nPlease check"
+},
+"labnew": {
+"thisexamisalreadypresent": " This Exam is already present"
+},
+"labnew": {
+"title": " New Patient Exams"
+},
+"labnew": {
+"tooltip": {
+"associateapatientwiththisexam": " Associate a Patient with this exam"
+}
+},
+"labnew": {
+"tooltip": {
+"changethepatientassociatedwiththisexams": " Change the Patient associated with this exam"
+}
+},
+"labnew": {
+"tooltip": {
+"removepatientassociationwiththisexam": " Remove Patient association with this exam"
+}
+},
+"malnutrition": {
+"dateconfm": " APPROVAL DATE"
+},
+"malnutrition": {
+"dateofthenextcontrol": " Date of the next control"
+},
+"malnutrition": {
+"dateofthiscontrol": " Date of this control"
+},
+"malnutrition": {
+"datesuppm": " FURTHER DATE"
+},
+"malnutrition": {
+"doyouwanttooverwritethedata": " Do you want to overwrite the data?"
+},
+"malnutrition": {
+"height": " Height"
+},
+"malnutrition": {
+"heightandweight": " Height and Weight"
+},
+"malnutrition": {
+"heightm": " HEIGHT"
+},
+"malnutrition": {
+"insertcorrectvalueinheightfield": " Insert correct value in Height field"
+},
+"malnutrition": {
+"insertcorrectvalueinweightfield": " Insert correct value in Weight field"
+},
+"malnutrition": {
+"lastcontrol": " Last control"
+},
+"malnutrition": {
+"malnutrition": " Malnutrition"
+},
+"malnutrition": {
+"malnutritionbrowser": " Malnutrition browser"
+},
+"malnutrition": {
+"nodate": " No date"
+},
+"malnutrition": {
+"nonameselected": " No name selected"
+},
+"malnutrition": {
+"pleaseinsertavalidcontroldate": " Please insert a valid control date"
+},
+"malnutrition": {
+"pleaseinsertavalidvisitdate": " Please insert a valid visit date"
+},
+"malnutrition": {
+"select": " Select"
+},
+"malnutrition": {
+"weight": " Weight"
+},
+"malnutrition": {
+"weightm": " WEIGHT"
+},
+"medicals": {
+"allm": " ALL"
+},
+"medicals": {
+"averagemonthlyconsumption": {
+"abbr": " AMC"
+}
+},
+"medicals": {
+"criticallevel": " Critical level"
+},
+"medicals": {
+"critlevelm": " CRIT. LEVEL"
+},
+"medicals": {
+"deletemedical": " Delete medical"
+},
+"medicals": {
+"doyouwanttooverwritethedata": " Do you want to overwrite the data?"
+},
+"medicals": {
+"editingmedicalrecord": " Editing medical record"
+},
+"medicals": {
+"expiring": " Expiring"
+},
+"medicals": {
+"expiringreport": " Expiring Report"
+},
+"medicals": {
+"export": " Export"
+},
+"medicals": {
+"import": " Import from Excel"
+},
+"medicals": {
+"inseravaliddescription": " Insert a valid description"
+},
+"medicals": {
+"insertavalidpackaging": " Insert a valid packaging"
+},
+"medicals": {
+"insertavalidvalue": " Insert a valid value"
+},
+"medicals": {
+"minquantitycannotbelessthan0": " Minimal quantity cannot be less than 0"
+},
+"medicals": {
+"newmedicalrecord": " New medical record"
+},
+"medicals": {
+"nextmonth": " Next month"
+},
+"medicals": {
+"nextthreemonths": " Next three months"
+},
+"medicals": {
+"nexttwomonths": " Next two months"
+},
+"medicals": {
+"onlyquantity": " Only quantity"
+},
+"medicals": {
+"orderlist": " Order"
+},
+"medicals": {
+"othermonth": " Other month..."
+},
+"medicals": {
+"outofstockm": " OUT OF STOCK"
+},
+"medicals": {
+"pcsperpck": " PcsXPck"
+},
+"medicals": {
+"pcsperpckExt": " Pieces per Packet"
+},
+"medicals": {
+"pcsperpckm": " PcsXPck"
+},
+"medicals": {
+"pharmaceuticalbrowsing": " Pharmaceutical browsing"
+},
+"medicals": {
+"pleaseselectareport": " Please select a report"
+},
+"medicals": {
+"pleaseselectperiod": " Please select a period"
+},
+"medicals": {
+"report": " Report"
+},
+"medicals": {
+"select": " Select"
+},
+"medicals": {
+"selecttype": " Select type"
+},
+"medicals": {
+"stock": " Stock"
+},
+"medicals": {
+"stockcard": " StockCard"
+},
+"medicals": {
+"stockm": " STOCK"
+},
+"medicals": {
+"thecodeisalreadyused": " The code is already used"
+},
+"medicals": {
+"themedicalyouinsertedseemsalreadyinuse": " The medical you inserted seems already in use"
+},
+"medicals": {
+"thepairtypemedicalalreadyexists": " The pair type / medication does already exists"
+},
+"medicals": {
+"therearestockmovementsreferredtothismedical": " There are stock movements referred to this medical. Contact system administrator"
+},
+"medicals": {
+"thismonth": " This month"
+},
+"medicals": {
+"today": " Today"
+},
+"medicals": {
+"type": " Type"
+},
+"medicals": {
+"typem": " TYPE"
+},
+"medicals": {
+"withlot": " With lots"
+},
+"medicalstock": {
+"all": " All"
+},
+"medicalstock": {
+"bottlesorboxes": " bottles/boxes"
+},
+"medicalstock": {
+"buttons": " Buttons"
+},
+"medicalstock": {
+"changethelotidbecauseitstoolong": " Change the lot id because it's too long (max 50 chars)"
+},
+"medicalstock": {
+"charge": " Charge"
+},
+"medicalstock": {
+"chooseamedical": " Choose a medical"
+},
+"medicalstock": {
+"chooseanalreadyexistentlot": " Choose an already existent lot"
+},
+"medicalstock": {
+"chooseapharmaceutical": " Choose a pharmaceutical"
+},
+"medicalstock": {
+"chooseasupplier": " Please select a Supplier"
+},
+"medicalstock": {
+"chooseatype": " Choose a type"
+},
+"medicalstock": {
+"chooseavalidduedate": " Choose a valid due date"
+},
+"medicalstock": {
+"chooseavalidmovementdate": " Choose a valid movement date"
+},
+"medicalstock": {
+"chooseavalidpreparationdate": " Choose a valid preparation date"
+},
+"medicalstock": {
+"chooseaward": " Choose a ward"
+},
+"medicalstock": {
+"clickdrugs": " Double click to show lot details"
+},
+"medicalstock": {
+"costm": " COST"
+},
+"medicalstock": {
+"currentquantitylyinginstock": " Current quantity lying in stock"
+},
+"medicalstock": {
+"deleteall": " Delete all!"
+},
+"medicalstock": {
+"discharge": " Discharge"
+},
+"medicalstock": {
+"duedate": " Due date"
+},
+"medicalstock": {
+"duedatefromcannotbelaterthanduedateto": " Due Date From cannot be later than Due Date To"
+},
+"medicalstock": {
+"duedatem": " DUE DATE"
+},
+"medicalstock": {
+"export": " Export to Excel"
+},
+"medicalstock": {
+"filter": " Filter"
+},
+"medicalstock": {
+"from": " From"
+},
+"medicalstock": {
+"generated": " Generated"
+},
+"medicalstock": {
+"import": " Import from excel"
+},
+"medicalstock": {
+"insert": " Insert"
+},
+"medicalstock": {
+"insertanewlot": " Insert a new lot"
+},
+"medicalstock": {
+"insertavalidduedate": " Insert a valid due date"
+},
+"medicalstock": {
+"insertavalidlotidentifier": " Insert a valid lot identifier"
+},
+"medicalstock": {
+"insertavalidpreparationdate": " Insert a valid preparation date"
+},
+"medicalstock": {
+"inserttheexpirydate": " Insert the expiry date"
+},
+"medicalstock": {
+"inserttheoriginofthepharmaceutical": " Insert the origin of the pharmaceutical (default Joint Medical Store)"
+},
+"medicalstock": {
+"insertthepreparationdate": " Insert the preparation date"
+},
+"medicalstock": {
+"jms": " JMS"
+},
+"medicalstock": {
+"keep": " Keep"
+},
+"medicalstock": {
+"lotduedate": " Lot Due Date"
+},
+"medicalstock": {
+"lotid": " Lot id"
+},
+"medicalstock": {
+"lotm": " LOT"
+},
+"medicalstock": {
+"lotpanel": " Lot Panel"
+},
+"medicalstock": {
+"lotpreparationdate": " Lot preparation date"
+},
+"medicalstock": {
+"medical": " Medical"
+},
+"medicalstock": {
+"medtypem": " MED TYPE"
+},
+"medicalstock": {
+"movement": " Movement"
+},
+"medicalstock": {
+"movementdatefromcannotbelaterthanmovementd": " Movement Date From cannot be later than movement Date To"
+},
+"medicalstock": {
+"movementdatefromcannotbelaterthanmovementdateto": " Movement Date From cannot be later than movement Date To"
+},
+"medicalstock": {
+"movementquantityisgreaterthanthequantityof": " Movement quantity is greater than the quantity of the lot you've selected: split the movement"
+},
+"medicalstock": {
+"movementtypechargedischarge": " Movement type (Charge/Discharge)"
+},
+"medicalstock": {
+"movementtypecodenotvalid": " Movement type code not valid"
+},
+"medicalstock": {
+"movementtypedescriptionnotvalid": " Movement type description not valid"
+},
+"medicalstock": {
+"movementtypetypenotvalid": " Movement type type not valid"
+},
+"medicalstock": {
+"multiplecharging": {
+"chargetype": " Charge Type"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"chooseamedical": " Choose a Medical"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"chooseasupplier": " Please select a Supplier"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"cost": " Cost"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"datebeforelastmovement": " date before last movement"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"existinglot": " Existing lots"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"expiringdate": " Expiring"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"expiringdateinthepastnotallowed": " Expiring date in the past not allowed"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"expirydatebeforepreparationdate": " Expiring date before Preparation date not allowed"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"futuredatenotallowed": " Future date not allowed"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"lotid": " Lot id"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"lotinformations": " Lot informations"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"lotnumberabb": " Lot No."
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"newlot": " New Lot"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"noelementtosave": " No elements to save"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"notallowed": " not allowed"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"packets": " packet"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"pleaseinsertareferencenumber": " Please insert a reference number"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"pleaseinsertavalidvalue": " Insert a valid value"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"pleaseselectasupplier": " Please select a Supplier"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"preparationdate": " Lot preparation"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"qty": " Qty"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"qtypacket": " Qty/Packet"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"referencenumberabb": " Reference No."
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"selectedlot": " Selected Lot"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"supplier": " Supplier"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"theinsertedreferencenumberalreadyexists": " The inserted reference number already exists"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"total": " TOTAL"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"totalcost": " Total cost"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"unitcost": " Unit cost"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"unitpack": " Unit/Pack"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"units": " Units"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"useanexistinglot": " Use an existing lot?"
+}
+},
+"medicalstock": {
+"multiplecharging": {
+"zerocostsnotallowed": " Zero costs not allowed"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"alert": " ALERT:"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"alreadyinthisform": " Already in this form!"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"chooseamedical": " Choose a Medical"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"datebeforelastmovement": " date before last movement ("
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"destination": " Destination"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"dischargetype": " Discharge Type"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"expiringdate": " Expiring"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"futuredatenotallowed": " Future date not allowed"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"isabouttoend": " is about to end"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"lotid": " Lot id"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"lotinformations": " Lot informations"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"lotnumberabb": " Lot No."
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"lyinginstock": " Lying in stock:"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"noelementtosave": " No elements to save"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"notallowed": " not allowed"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"outofstock": " Out of stock!"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"packets": " Packets"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"pleaseinsertareferencenumber": " Please insert a reference number"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"pleaseinsertavalidvalue": " Insert a valid value"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"pleaseselectaward": " Please select a ward"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"pleaseselectpatient": " please select a Patient"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"preparationdate": " Preparation Date:"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"proceed": " , proceed?"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"qty": " Qty"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"referencenumber": " Reference No."
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"selectalot": " Select a lot"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"sharealertwithnobody": " -- Share alert with: Nobody --"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"theinsertedreferencenumberalreadyexists": " the inserted reference number already exists"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"thequantityisnotavailable": " The quantity is not available"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"total": " TOTAL"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"totalcost": " Total cost"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"unitcost": " Unit cost"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"unitpack": " Unit/Pack"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"units": " Units"
+}
+},
+"medicalstock": {
+"multipledischarging": {
+"youaregoingundercriticalevel": " You are going to run under the CRITICAL LEVEL quantity. Continue ?"
+}
+},
+"medicalstock": {
+"nodate": " No Date"
+},
+"medicalstock": {
+"nolot": " No Lot"
+},
+"medicalstock": {
+"notspecified": " Not specified"
+},
+"medicalstock": {
+"noward": " No ward"
+},
+"medicalstock": {
+"originm": " ORIGIN"
+},
+"medicalstock": {
+"pharmaceutical": " Pharmaceutical"
+},
+"medicalstock": {
+"pharmaceuticalm": " PHARMACEUTICAL"
+},
+"medicalstock": {
+"piecesorml": " pieces/ml"
+},
+"medicalstock": {
+"pleaseselectalot": " Please select a lot"
+},
+"medicalstock": {
+"pleaseselectalotorcreateanewone": " Please select a lot or create a new one"
+},
+"medicalstock": {
+"preparationdatecannotbelaterthanduedate": " Preparation Date cannot be later than Due Date"
+},
+"medicalstock": {
+"preparationdatefromcannotbelaterpreparatio": " Preparation Date From cannot be later than Preparation Date To"
+},
+"medicalstock": {
+"preparationdatefromcannotbelaterpreparationdateto": " Preparation Date From cannot be later than Preparation Date To"
+},
+"medicalstock": {
+"prepdate": " Preparation date"
+},
+"medicalstock": {
+"prepdatem": " PREP DATE"
+},
+"medicalstock": {
+"qtym": " Q.TY"
+},
+"medicalstock": {
+"reallywanttodeleteallstockmovementsandlot": " Really want to delete all STOCK MOVEMENTS and LOT ?"
+},
+"medicalstock": {
+"refno": " Ref. No."
+},
+"medicalstock": {
+"refnom": " REF.NO."
+},
+"medicalstock": {
+"reset": " Reset"
+},
+"medicalstock": {
+"searchcode": " Product Code"
+},
+"medicalstock": {
+"select": " Select"
+},
+"medicalstock": {
+"selectionpanel": " Selection panel"
+},
+"medicalstock": {
+"stockcard": " StockCard"
+},
+"medicalstock": {
+"stockledger": " Stock Ledger"
+},
+"medicalstock": {
+"stockmovementbrowser": " Stock movement browser"
+},
+"medicalstock": {
+"stockmovementinserting": " Stock movement"
+},
+"medicalstock": {
+"table": " Table"
+},
+"medicalstock": {
+"thequantitymustnotbezero": " The quantity must not be 0"
+},
+"medicalstock": {
+"thetotalquantitycannotbelessthan": " The total quantity cannot be less than 0"
+},
+"medicalstock": {
+"thislotreferstoanothermedical": " This Lot refers to another Medical"
+},
+"medicalstock": {
+"to": " To"
+},
+"medicalstock": {
+"totalm": " TOTAL"
+},
+"medicalstock": {
+"type": " Type"
+},
+"medicalstock": {
+"typeacodeoradescriptionandpressenter": " Type a code or a description and press ENTER"
+},
+"medicalstock": {
+"typem": " TYPE"
+},
+"medicalstock": {
+"unitcost": " Unit cost"
+},
+"medicalstock": {
+"ward": " Ward"
+},
+"medicalstock": {
+"wardm": " WARD"
+},
+"medicalstockward": {
+"age": " Age"
+},
+"medicalstockward": {
+"agefrom": " Age From:"
+},
+"medicalstockward": {
+"agefrommustbelowerthanageto": " 'Age from' must be lower than 'Age to'"
+},
+"medicalstockward": {
+"ageto": " Age To:"
+},
+"medicalstockward": {
+"all": " All"
+},
+"medicalstockward": {
+"allmedicals": " All Medicals"
+},
+"medicalstockward": {
+"alltypes": " All Types"
+},
+"medicalstockward": {
+"chooselot": " Choose a Lot"
+},
+"medicalstockward": {
+"count": " Count"
+},
+"medicalstockward": {
+"doyoureallywanttodeletethismovement": " Do you really want to delete this movement?"
+},
+"medicalstockward": {
+"drugs": " Drugs"
+},
+"medicalstockward": {
+"female": " Female"
+},
+"medicalstockward": {
+"filter": " Filter"
+},
+"medicalstockward": {
+"from": " From"
+},
+"medicalstockward": {
+"incomings": " Incomings"
+},
+"medicalstockward": {
+"insertavalidweight": " Insert a valid weight"
+},
+"medicalstockward": {
+"insertvalidage": " Insert a valid age"
+},
+"medicalstockward": {
+"invalidquantitypleasetryagain": " Invalid Quantity!\nPlease try again."
+},
+"medicalstockward": {
+"lotnumberabb": " Lot No."
+},
+"medicalstockward": {
+"male": " Male"
+},
+"medicalstockward": {
+"medical": " Medical"
+},
+"medicalstockward": {
+"newlot": " New Lot"
+},
+"medicalstockward": {
+"outcome": {
+"destination": " Patient/Destination"
+}
+},
+"medicalstockward": {
+"outcomes": " Outcomes"
+},
+"medicalstockward": {
+"packets": " packets"
+},
+"medicalstockward": {
+"patient": " Patient"
+},
+"medicalstockward": {
+"patient": {
+"date": " Date"
+}
+},
+"medicalstockward": {
+"patient": {
+"decription": " Drug"
+}
+},
+"medicalstockward": {
+"patient": {
+"quantity": " Quantity"
+}
+},
+"medicalstockward": {
+"patient": {
+"units": " Units"
+}
+},
+"medicalstockward": {
+"pieces": "  pieces"
+},
+"medicalstockward": {
+"pleaseselectanoutcomesmovementfirst": " Please select an Outcomes movement first"
+},
+"medicalstockward": {
+"purpose": " Purpose"
+},
+"medicalstockward": {
+"rectify": " Rectify"
+},
+"medicalstockward": {
+"rectify": {
+"actualquantity": " Actual Quantity"
+}
+},
+"medicalstockward": {
+"rectify": {
+"expiringdate": " Expiring"
+}
+},
+"medicalstockward": {
+"rectify": {
+"expiringdateinthepastnotallowed": " Expiring date in the past not allowed"
+}
+},
+"medicalstockward": {
+"rectify": {
+"expirydatebeforepreparationdate": " Expiring date before Preparation date not allowed"
+}
+},
+"medicalstockward": {
+"rectify": {
+"futuredatenotallowed": " Future date not allowed"
+}
+},
+"medicalstockward": {
+"rectify": {
+"inlot": " In lot"
+}
+},
+"medicalstockward": {
+"rectify": {
+"instock": " In stock"
+}
+},
+"medicalstockward": {
+"rectify": {
+"lotid": " Lot id"
+}
+},
+"medicalstockward": {
+"rectify": {
+"lotinformations": " Lot informations"
+}
+},
+"medicalstockward": {
+"rectify": {
+"lotnumberSelect": " Please insert a lot number"
+}
+},
+"medicalstockward": {
+"rectify": {
+"lotnumberabb": " Lot No."
+}
+},
+"medicalstockward": {
+"rectify": {
+"medical": " Medical"
+}
+},
+"medicalstockward": {
+"rectify": {
+"pieces": " pieces"
+}
+},
+"medicalstockward": {
+"rectify": {
+"pleaseinsertavalidvalue": " Insert a valid value"
+}
+},
+"medicalstockward": {
+"rectify": {
+"pleaseselectadrug": " Please Select a drug"
+}
+},
+"medicalstockward": {
+"rectify": {
+"pleasespecifythereason": " Please specify the reason"
+}
+},
+"medicalstockward": {
+"rectify": {
+"preparationdate": " Lot preparation"
+}
+},
+"medicalstockward": {
+"rectify": {
+"qty": " Qty"
+}
+},
+"medicalstockward": {
+"rectify": {
+"reason": " Reason"
+}
+},
+"medicalstockward": {
+"rectify": {
+"referencenumber": " Reference No."
+}
+},
+"medicalstockward": {
+"rectify": {
+"selectalot": " Select a lot"
+}
+},
+"medicalstockward": {
+"rectify": {
+"thiswillemptythelotproceed": " This operation will empty the selected lot, proceed?"
+}
+},
+"medicalstockward": {
+"rectify": {
+"title": " Rectify"
+}
+},
+"medicalstockward": {
+"rectify": {
+"totalcost": " Total cost"
+}
+},
+"medicalstockward": {
+"rectify": {
+"unitcost": " Unit cost"
+}
+},
+"medicalstockward": {
+"rectifyerror": " Not enough quantity in stock"
+},
+"medicalstockward": {
+"report": " Report"
+},
+"medicalstockward": {
+"reset": " Reset"
+},
+"medicalstockward": {
+"selectaward": " <select a ward>"
+},
+"medicalstockward": {
+"sex": " Sex"
+},
+"medicalstockward": {
+"stockcard": " StockCard"
+},
+"medicalstockward": {
+"stockledger": " Stock Ledger"
+},
+"medicalstockward": {
+"title": " WardPharmacy"
+},
+"medicalstockward": {
+"to": " To"
+},
+"medicalstockward": {
+"units": " Units"
+},
+"medicalstockward": {
+"ward": " WARD"
+},
+"medicalstockward": {
+"weight": " Weight"
+},
+"medicalstockward": {
+"weightfrom": " From"
+},
+"medicalstockward": {
+"weightfrommustbelowerthanweightto": " 'Weight from' must be lower than 'Weight to'"
+},
+"medicalstockward": {
+"weightto": " To"
+},
+"medicalstockwardedit": {
+"age": " Age"
+},
+"medicalstockwardedit": {
+"changepatient": " Change Patient"
+},
+"medicalstockwardedit": {
+"changethepatientassociatedwiththismovement": " Change the Patient associated with this movement"
+},
+"medicalstockwardedit": {
+"drug": " Drug"
+},
+"medicalstockwardedit": {
+"insertquantitypiecesormls": " Insert quantity (pieces/mls):"
+},
+"medicalstockwardedit": {
+"insertvalidage": " Insert a valid age"
+},
+"medicalstockwardedit": {
+"instock": " In stock"
+},
+"medicalstockwardedit": {
+"internaluse": " Internal use"
+},
+"medicalstockwardedit": {
+"invalidproduct": " Invalid Product"
+},
+"medicalstockwardedit": {
+"invalidquantity": " Invalid Quantity"
+},
+"medicalstockwardedit": {
+"invalidquantitypleaseinsertatleast": " Invalid Quantity!\nPlease insert at least:"
+},
+"medicalstockwardedit": {
+"invalidquantitypleaseinsertmax": " Invalid Quantity!\nPlease insert max:"
+},
+"medicalstockwardedit": {
+"invalidquantitypleasetryagain": " Invalid Quantity!\nPlease try again."
+},
+"medicalstockwardedit": {
+"medical": " Medical"
+},
+"medicalstockwardedit": {
+"patient": " Patient"
+},
+"medicalstockwardedit": {
+"pickpatient": " Pick Patient"
+},
+"medicalstockwardedit": {
+"pieces": " pieces"
+},
+"medicalstockwardedit": {
+"pleaseinsertadescriptionfortheinternaluse": " Please insert a description\nfor internal use"
+},
+"medicalstockwardedit": {
+"pleaseinsertavalidquantity": " Please insert a valid quantity"
+},
+"medicalstockwardedit": {
+"pleaseselectadrug": " Please Select a drug"
+},
+"medicalstockwardedit": {
+"pleaseselectanitem": " Please select an item"
+},
+"medicalstockwardedit": {
+"pleaseselectapatient": " Please select a patient"
+},
+"medicalstockwardedit": {
+"problemoccurredwhileretrievingweight": " A problem occurred while retrieving patient's weight"
+},
+"medicalstockwardedit": {
+"productalreadyinserted": " Product already inserted"
+},
+"medicalstockwardedit": {
+"removeitem": " Remove Item"
+},
+"medicalstockwardedit": {
+"selectadrug": " Select a drug"
+},
+"medicalstockwardedit": {
+"selectamedical": " Select a Medical"
+},
+"medicalstockwardedit": {
+"selectapatient": " Select a patient"
+},
+"medicalstockwardedit": {
+"theselectedpatienthasnoweightdefined": " The selected Patient has no weight defined"
+},
+"medicalstockwardedit": {
+"title": " New / Edit"
+},
+"medicalstockwardedit": {
+"tooltip": {
+"associateapatientwiththismovement": " Associate a Patient with this movement"
+}
+},
+"medicalstockwardedit": {
+"tooltip": {
+"changethepatientassociatedwiththismovement": " Change the Patient associated with this movement"
+}
+},
+"medicalstockwardedit": {
+"tooltip": {
+"removepatientassociationwiththismovement": " Remove Patient association with this movement"
+}
+},
+"medicalstockwardedit": {
+"updateageandweightforthispatient": " Update Age and Weight for this Patient?"
+},
+"medicalstockwardedit": {
+"weight": " Weight"
+},
+"medstockmovtype": {
+"codemaxchars": " Code (max 10 chars)"
+},
+"medstockmovtype": {
+"codetoolongmaxchars": " Code too long (max 10 chars)"
+},
+"medstockmovtype": {
+"deletemovementtype": " Delete movement type"
+},
+"medstockmovtype": {
+"editingmedicalsstockmovementtyperecord": " Editing Medicals stock movement Type record"
+},
+"medstockmovtype": {
+"medicalsstockmovementtypebrowsing": " Medicals Stock Movement Type Browsing"
+},
+"medstockmovtype": {
+"newmedicalsstockmovementtyperecord": " New Medicals stock movement Type record"
+},
+"medstockmovtype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"medstockmovtype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"medstockmovtype": {
+"pleaseinsertavalidtype": " Please insert a valid type"
+},
+"medstockmovtype": {
+"type": " Type"
+},
+"medstockmovtype": {
+"typem": " TYPE"
+},
+"medstockmovtype": {
+"typetoolongmaxchars": " Type too long (max 2 chars)"
+},
+"medtype": {
+"codemaxchars": " Code (max 1 char)"
+},
+"medtype": {
+"codetoolongmaxchars": " Code too long (max 1 char)"
+},
+"medtype": {
+"deletemedicaltype": " Delete Medical Type"
+},
+"medtype": {
+"editingmedicaltyperecord": " Editing Medical Type record"
+},
+"medtype": {
+"medicaltypebrowsing": " Medical Type Browsing"
+},
+"medtype": {
+"newmedicaltyperecord": " New Medical Type record"
+},
+"medtype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"medtype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"menu": {
+"accounting": " Accounting"
+},
+"menu": {
+"admchart": " Admission Chart"
+},
+"menu": {
+"admission": " Admission/Patient"
+},
+"menu": {
+"admtype": " AdmissionType"
+},
+"menu": {
+"agetype": " Age Type"
+},
+"menu": {
+"all": " ALL"
+},
+"menu": {
+"billsmanager": " Bills manager"
+},
+"menu": {
+"btn": {
+"accounting": " Accounting"
+}
+},
+"menu": {
+"btn": {
+"admchart": " Admission Chart"
+}
+},
+"menu": {
+"btn": {
+"admission": " Admission/Patient"
+}
+},
+"menu": {
+"btn": {
+"admtype": " Admission Type"
+}
+},
+"menu": {
+"btn": {
+"agetype": " Age Type"
+}
+},
+"menu": {
+"btn": {
+"billsmanager": " Bills manager"
+}
+},
+"menu": {
+"btn": {
+"btnadmbill": " Bill"
+}
+},
+"menu": {
+"btn": {
+"btnbillreceipt": " Receipt"
+}
+},
+"menu": {
+"btn": {
+"btnmedicalswardexcel": " Excel"
+}
+},
+"menu": {
+"btn": {
+"btnmedicalswardrectify": " Rectify"
+}
+},
+"menu": {
+"btn": {
+"btnmedicalswardreport": " Report"
+}
+},
+"menu": {
+"btn": {
+"btnpharmstockcharge": " Charge"
+}
+},
+"menu": {
+"btn": {
+"btnpharmstockdischarge": " Discharge"
+}
+},
+"menu": {
+"btn": {
+"chat": " Communication"
+}
+},
+"menu": {
+"btn": {
+"deliverytype": " Delivery Type"
+}
+},
+"menu": {
+"btn": {
+"delresulttype": " Delivery Result Type"
+}
+},
+"menu": {
+"btn": {
+"dicom": " DICOM Patient"
+}
+},
+"menu": {
+"btn": {
+"dicomtype": " Dicom Type"
+}
+},
+"menu": {
+"btn": {
+"disctype": " Discharge Type"
+}
+},
+"menu": {
+"btn": {
+"disease": " Disease"
+}
+},
+"menu": {
+"btn": {
+"diseaselist": " Disease List"
+}
+},
+"menu": {
+"btn": {
+"diseasetype": " Disease Type"
+}
+},
+"menu": {
+"btn": {
+"examlist1": " Exams List"
+}
+},
+"menu": {
+"btn": {
+"exams": " Exams"
+}
+},
+"menu": {
+"btn": {
+"examtype": " Exam Type"
+}
+},
+"menu": {
+"btn": {
+"exit": " Exit"
+}
+},
+"menu": {
+"btn": {
+"file": " File"
+}
+},
+"menu": {
+"btn": {
+"generaldata": " General Data"
+}
+},
+"menu": {
+"btn": {
+"groups": " Groups"
+}
+},
+"menu": {
+"btn": {
+"help": " HELP"
+}
+},
+"menu": {
+"btn": {
+"hospital": " Hospital"
+}
+},
+"menu": {
+"btn": {
+"labbrowsing": " Laboratory Browsing"
+}
+},
+"menu": {
+"btn": {
+"laboratory": " Laboratory"
+}
+},
+"menu": {
+"btn": {
+"medicals": " Pharmaceuticals"
+}
+},
+"menu": {
+"btn": {
+"medicalstock": " Pharmaceutical Stock"
+}
+},
+"menu": {
+"btn": {
+"medicalstype": " Medicals Type"
+}
+},
+"menu": {
+"btn": {
+"medicalsward": " Pharmaceutical Stock Ward"
+}
+},
+"menu": {
+"btn": {
+"medstockmovtype": " Medicals Stock Mov Type"
+}
+},
+"menu": {
+"btn": {
+"newbill": " New Bill"
+}
+},
+"menu": {
+"btn": {
+"opd": " OPD"
+}
+},
+"menu": {
+"btn": {
+"opdchart": " OPD Chart"
+}
+},
+"menu": {
+"btn": {
+"operation": " Operation"
+}
+},
+"menu": {
+"btn": {
+"operationtype": " Operation Type"
+}
+},
+"menu": {
+"btn": {
+"otherprices": " Other Prices"
+}
+},
+"menu": {
+"btn": {
+"patientvaccine": " Patient Vaccines"
+}
+},
+"menu": {
+"btn": {
+"patreport": " Launch Report"
+}
+},
+"menu": {
+"btn": {
+"pharmacy": " Pharmacy"
+}
+},
+"menu": {
+"btn": {
+"pretreatmenttype": " Pregnant Treatment"
+}
+},
+"menu": {
+"btn": {
+"priceslists": " Prices lists"
+}
+},
+"menu": {
+"btn": {
+"printing": " Printing"
+}
+},
+"menu": {
+"btn": {
+"smsmanager": " SMS Manager"
+}
+},
+"menu": {
+"btn": {
+"statistics": " Statistics"
+}
+},
+"menu": {
+"btn": {
+"supplier": " Supplier"
+}
+},
+"menu": {
+"btn": {
+"therapy": " Therapy"
+}
+},
+"menu": {
+"btn": {
+"types": " Types"
+}
+},
+"menu": {
+"btn": {
+"users": " Users"
+}
+},
+"menu": {
+"btn": {
+"usersusers": " Users"
+}
+},
+"menu": {
+"btn": {
+"vaccine": " Vaccine"
+}
+},
+"menu": {
+"btn": {
+"vaccinetype": " Vaccine Type"
+}
+},
+"menu": {
+"btn": {
+"ward": " Ward"
+}
+},
+"menu": {
+"btn": {
+"worksheet": " Worksheet"
+}
+},
+"menu": {
+"btnadmbill": " Bill"
+},
+"menu": {
+"btnbillreceipt": " Receipt"
+},
+"menu": {
+"btnmedicalswardexcel": " Excel"
+},
+"menu": {
+"btnmedicalswardrectify": " Rectify"
+},
+"menu": {
+"btnmedicalswardreport": " Report"
+},
+"menu": {
+"btnpharmstockcharge": " Charge"
+},
+"menu": {
+"btnpharmstockdischarge": " Discharge"
+},
+"menu": {
+"chat": " Communication"
+},
+"menu": {
+"class": " class:"
+},
+"menu": {
+"deletegroup": " Delete group"
+},
+"menu": {
+"deleteuser": " Delete user"
+},
+"menu": {
+"deliverytype": " Delivery"
+},
+"menu": {
+"delresulttype": " DeliveryResult"
+},
+"menu": {
+"descm": " DESC"
+},
+"menu": {
+"dicom": " DICOM Patient"
+},
+"menu": {
+"dicomtype": " Dicom Type"
+},
+"menu": {
+"disctype": " Discharge Type"
+},
+"menu": {
+"disease": " Disease"
+},
+"menu": {
+"diseaselist": " DiseaseList"
+},
+"menu": {
+"diseasetype": " Disease"
+},
+"menu": {
+"editinggrouprecord": " Editing group record"
+},
+"menu": {
+"editinguserrecord": " Editing user record"
+},
+"menu": {
+"examlist1": " ExamsList"
+},
+"menu": {
+"exams": " Exams"
+},
+"menu": {
+"examtype": " Exam Type"
+},
+"menu": {
+"exit": " Exit"
+},
+"menu": {
+"file": " File"
+},
+"menu": {
+"generaldata": " GeneralData"
+},
+"menu": {
+"group": " Group"
+},
+"menu": {
+"groupm": " GROUP"
+},
+"menu": {
+"groupmenu": " GroupMenu"
+},
+"menu": {
+"groups": " Groups"
+},
+"menu": {
+"groupsbrowser": " Groups browser"
+},
+"menu": {
+"help": " HELP"
+},
+"menu": {
+"hospital": " Hospital"
+},
+"menu": {
+"inposition": " in position:"
+},
+"menu": {
+"invalidpasswordforthisuser": " Invalid password for this user.\nPlease reset it in Admin -> File -> Users -> Users -> Reset Password"
+},
+"menu": {
+"isactive": " isActive:"
+},
+"menu": {
+"isalreadypresent": " is already present."
+},
+"menu": {
+"issubmenu": " isSubMenu:"
+},
+"menu": {
+"labbrowsing": " LaboratoryBrowsing"
+},
+"menu": {
+"labelstooltipshort": " Labels,Tooltip,short:"
+},
+"menu": {
+"laboratory": " Laboratory"
+},
+"menu": {
+"medicals": " Pharmaceuticals"
+},
+"menu": {
+"medicalstock": " PharmaceuticalStock"
+},
+"menu": {
+"medicalstype": " Medicals"
+},
+"menu": {
+"medicalsward": " Pharmaceutical Stock Ward"
+},
+"menu": {
+"medstockmovtype": " MedicalsStock Mov"
+},
+"menu": {
+"menuitmebrowser": " Menu Item Browser"
+},
+"menu": {
+"name": " Name"
+},
+"menu": {
+"newbill": " New Bill"
+},
+"menu": {
+"newgrouprecord": " New group record"
+},
+"menu": {
+"newuserrecord": " New user record"
+},
+"menu": {
+"onepleaseinsertnewpassowrdminsixdigits": " 1. Please insert new password (min 6 digits)"
+},
+"menu": {
+"opd": " OPD"
+},
+"menu": {
+"opdchart": " OPD Chart"
+},
+"menu": {
+"operation": " Operation"
+},
+"menu": {
+"operationtype": " Operation"
+},
+"menu": {
+"otherprices": " Other Prices"
+},
+"menu": {
+"passwdm": " PASSWD"
+},
+"menu": {
+"password": " Password"
+},
+"menu": {
+"passwordincorrectpleaseretype": " password incorrect, please retype"
+},
+"menu": {
+"passwordincorrectretry": " password incorrect: retry"
+},
+"menu": {
+"patientvaccine": " Patient Vaccins"
+},
+"menu": {
+"patreport": " Launch Report"
+},
+"menu": {
+"pharmacy": " Pharmacy"
+},
+"menu": {
+"pleaseinsertapassword": " please insert a password"
+},
+"menu": {
+"pleaseinsertavalidpasswordminsixdigits": " Please insert a valid password (min 6 digits)"
+},
+"menu": {
+"pleaseinsertavalidusergroup": " please insert a valid user group"
+},
+"menu": {
+"pleaseinsertavalidusername": " please insert a valid user name"
+},
+"menu": {
+"pleaseretypethepassword": " please retype the password"
+},
+"menu": {
+"pretreatmenttype": " PregnantTreatment"
+},
+"menu": {
+"priceslists": " Prices Lists"
+},
+"menu": {
+"printing": " Printing"
+},
+"menu": {
+"resetpassword": " Reset Password"
+},
+"menu": {
+"retypeerrorpleaseretry": " Retype error, please retry"
+},
+"menu": {
+"retypepassword": " Retype Password"
+},
+"menu": {
+"selectgroup": " Select group"
+},
+"menu": {
+"single": " Single"
+},
+"menu": {
+"smsmanager": " SMS Manager"
+},
+"menu": {
+"statistics": " Statistics"
+},
+"menu": {
+"submenu": " Sub Menu:"
+},
+"menu": {
+"submit": " Submit"
+},
+"menu": {
+"supplier": " Supplier"
+},
+"menu": {
+"thegroup": " The group"
+},
+"menu": {
+"thepasswordhasbeenchanged": " The password has been changed"
+},
+"menu": {
+"theuser": " The user"
+},
+"menu": {
+"thisgrouphasusers": " this group has users"
+},
+"menu": {
+"twopleaserepeatpassword": " 2. Please repeat the password"
+},
+"menu": {
+"type": " Type"
+},
+"menu": {
+"types": " Types"
+},
+"menu": {
+"update": " Update"
+},
+"menu": {
+"userm": " USER"
+},
+"menu": {
+"usermenuitem": " User Menu Item:"
+},
+"menu": {
+"users": " Users"
+},
+"menu": {
+"usersbrowser": " Users browser"
+},
+"menu": {
+"usersusers": " Users"
+},
+"menu": {
+"vaccine": " Vaccine"
+},
+"menu": {
+"vaccinetype": " Vaccine Type"
+},
+"menu": {
+"visits": " Visits"
+},
+"menu": {
+"ward": " Ward"
+},
+"menu": {
+"worksheet": " Worksheet"
+},
+"menu": {
+"youcantdeleteadminuser": " You can't delete 'admin' user"
+},
+"menu": {
+"youcantdeletegroupadmin": " You can't delete 'admin' user"
+},
+"newbill": {
+"amount": " Amount"
+},
+"newbill": {
+"balancem": " BALANCE"
+},
+"newbill": {
+"billdateafterfirstpayment": " Bill date after first payment"
+},
+"newbill": {
+"billhasbeenchangedwouldyouliketosavechanges": " Bill has been changed\nWould you like to save changes?"
+},
+"newbill": {
+"billsinfuturenotallowed": " Bills in future not allowed"
+},
+"newbill": {
+"changepatient": " Change Patient"
+},
+"newbill": {
+"changethepatientassociatedwiththisbill": " Change the Patient associated with this bill"
+},
+"newbill": {
+"chooseadescription": " Choose a description"
+},
+"newbill": {
+"custom": " Custom"
+},
+"newbill": {
+"customitem": " Custom Item"
+},
+"newbill": {
+"datebeforelastpayment": " Date before last payment"
+},
+"newbill": {
+"dateofpayment": " Date of payment"
+},
+"newbill": {
+"days": " Days"
+},
+"newbill": {
+"doyoureallywanttochangetheoriginaldate": " Do you want to change the original date?"
+},
+"newbill": {
+"doyouwanttosetaspaidcurrentbill": " Do you want to set as PAID current BILL?"
+},
+"newbill": {
+"entercustomercash": " Enter customer cash:"
+},
+"newbill": {
+"exam": " Exam"
+},
+"newbill": {
+"failedtosavebill": " Failed to save bill"
+},
+"newbill": {
+"givechange": " Give change"
+},
+"newbill": {
+"howmanydays": " How many days?"
+},
+"newbill": {
+"howmuchisit": " How much is it?"
+},
+"newbill": {
+"insertquantity": " Insert quantity:"
+},
+"newbill": {
+"invaliddate": " Invalid date"
+},
+"newbill": {
+"invalidprice": " Invalid price"
+},
+"newbill": {
+"invalidpricepleasetryagain": " Invalid price!\nPlease try again."
+},
+"newbill": {
+"invalidquantity": " Invalid Quantity"
+},
+"newbill": {
+"invalidquantitypleasetryagain": " Invalid Quantity!\nPlease try again."
+},
+"newbill": {
+"item": " Item"
+},
+"newbill": {
+"list": " List"
+},
+"newbill": {
+"medical": " Medical"
+},
+"newbill": {
+"newdescription": " new description"
+},
+"newbill": {
+"nopricelistselected": {
+"part1": " No PriceList Selected!"
+}
+},
+"newbill": {
+"nopricelistselected": {
+"part2": "  will be used"
+}
+},
+"newbill": {
+"operation": " Operation"
+},
+"newbill": {
+"other": " Other"
+},
+"newbill": {
+"paid": " Paid"
+},
+"newbill": {
+"patient": " Patient"
+},
+"newbill": {
+"patientassociatedwiththisbillnolongerexists": " Patient associated with this bill\nno longer exists"
+},
+"newbill": {
+"payementinthefuturenotallowed": " Payment in the future not allowed"
+},
+"newbill": {
+"payment": " Payment"
+},
+"newbill": {
+"paymentbeforebilldate": " Payment before Bill date"
+},
+"newbill": {
+"paymentreceipt": " Payment receipt"
+},
+"newbill": {
+"pickpatient": " find Patient..."
+},
+"newbill": {
+"pleaseinsertanameforthepatient": " Please insert a name for the Patient"
+},
+"newbill": {
+"pleaseselectanitem": " Please select an item"
+},
+"newbill": {
+"pleaseselectapaymentfirst": " Please select a payment first"
+},
+"newbill": {
+"pricelistassociatedwiththisbillnolongerexists": " PriceList associated with this bill\nno longer exists"
+},
+"newbill": {
+"qty": " Qty"
+},
+"newbill": {
+"refund": " Refund"
+},
+"newbill": {
+"removeitem": " Remove Item"
+},
+"newbill": {
+"removepayment": " Remove Payment"
+},
+"newbill": {
+"selectamedical": " Select a Medical"
+},
+"newbill": {
+"selectanexam": " Select an Exam"
+},
+"newbill": {
+"selectanoperation": " Select an Operation"
+},
+"newbill": {
+"selectapricelist": " Select a PriceList"
+},
+"newbill": {
+"title": " New Patient Bill"
+},
+"newbill": {
+"tooltip": {
+"associateapatientwiththisbill": " Associate a Patient with this bill"
+}
+},
+"newbill": {
+"tooltip": {
+"changethepatientassociatedwiththisbill": " Change the Patient associated with this bill"
+}
+},
+"newbill": {
+"tooltip": {
+"removepatientassociationwiththisbill": " Remove Patient association with this bill"
+}
+},
+"newbill": {
+"totalm": " Total"
+},
+"newbill": {
+"undefined": " Undefined"
+},
+"newbill": {
+"youcannotcloseabillwithoutstandingbalance": " You cannot close a bill with outstanding balance"
+},
+"newbill": {
+"youcannotdeletealreadysaveditems": " You cannot delete already saved items"
+},
+"newbill": {
+"youcannotdeletepastpayments": " You cannot delete past payments"
+},
+"opd": {
+"address": " Address"
+},
+"opd": {
+"age": " Age"
+},
+"opd": {
+"agefrom": " Age From:"
+},
+"opd": {
+"agefrommustbelowerthanageto": " 'Age from' must be lower than 'Age to'"
+},
+"opd": {
+"agem": " AGE"
+},
+"opd": {
+"ageto": " Age To:"
+},
+"opd": {
+"all": " All"
+},
+"opd": {
+"alldisease": " All Disease"
+},
+"opd": {
+"alltype": " All Type"
+},
+"opd": {
+"attendancedate": " Attendance Date"
+},
+"opd": {
+"city": " City"
+},
+"opd": {
+"count": " Count"
+},
+"opd": {
+"datefrom": " Date From:"
+},
+"opd": {
+"datefrommustbebefordateto": " 'Date from' must be lower than 'Date to'"
+},
+"opd": {
+"dateto": " Date To:"
+},
+"opd": {
+"deletefollowingopd": " Delete following opd:"
+},
+"opd": {
+"diagnosis": " Diagnosis"
+},
+"opd": {
+"diagnosisnfulllist": " Diagnosis n.2 (full list)"
+},
+"opd": {
+"diagnosisnfulllist3": " Diagnosis n.3 (full list)"
+},
+"opd": {
+"disease": " Disease"
+},
+"opd": {
+"disease1mayhavebeencancelled": " Disease n.1 may have been canceled"
+},
+"opd": {
+"disease2mayhavebeencancelled": " Disease n.2 may have been canceled"
+},
+"opd": {
+"disease3mayhavebeencancelled": " Disease n.3 may have been canceled"
+},
+"opd": {
+"diseasem": " DISEASE"
+},
+"opd": {
+"diseasetype": " Disease Type"
+},
+"opd": {
+"diseasetypem": " Disease Type"
+},
+"opd": {
+"doyouwanttooverwritethedata": " Do you want to overwrite the data?"
+},
+"opd": {
+"duplicatediseasesnotallowed": " Duplicate Diseases not allowed"
+},
+"opd": {
+"editopdregistration": " Edit OPD registration"
+},
+"opd": {
+"examination": " Examination"
+},
+"opd": {
+"female": " Female"
+},
+"opd": {
+"first": {
+"name": " First Name"
+}
+},
+"opd": {
+"fullname": " FULL NAME"
+},
+"opd": {
+"insertage": " Insert age"
+},
+"opd": {
+"insertvalidage": " Insert valid age"
+},
+"opd": {
+"lastopdnote": " Note"
+},
+"opd": {
+"lastopdvisitm": " LAST OPD VISIT"
+},
+"opd": {
+"male": " Male"
+},
+"opd": {
+"newattendance": " New Attendance"
+},
+"opd": {
+"newopdregistration": " New OPD registration"
+},
+"opd": {
+"newpatient": " <enter a new patient>"
+},
+"opd": {
+"nextkin": " Next Kin"
+},
+"opd": {
+"nextvisitdate": " Next visit date"
+},
+"opd": {
+"nonote": " <none>"
+},
+"opd": {
+"noteandsymptom": " Note & Symptom"
+},
+"opd": {
+"notpasseddate": " You can not set a passed date for next visit"
+},
+"opd": {
+"notspecified": " not specified"
+},
+"opd": {
+"on": " on"
+},
+"opd": {
+"opdnumber": " OPD No."
+},
+"opd": {
+"opdnumberalreadyexist": " OPD No. already exists"
+},
+"opd": {
+"opdnumbermustbeanumber": " OPD No. must be a number"
+},
+"opd": {
+"opdoutpatientdepartment": " OPD Out Patient Department"
+},
+"opd": {
+"operation": " Operation"
+},
+"opd": {
+"patient": " OH Patient"
+},
+"opd": {
+"patientid": " Pat.ID"
+},
+"opd": {
+"patientsearch": " Search"
+},
+"opd": {
+"patientstatus": " Status"
+},
+"opd": {
+"pleaseinsertattendancedate": " Please insert attendance date."
+},
+"opd": {
+"pleaseinsertavalidattendancedate": " please insert a valid attendance date"
+},
+"opd": {
+"pleaseselectadisease": " Please select a disesase"
+},
+"opd": {
+"pleaseselectapatient": " Please select a Patient"
+},
+"opd": {
+"progyearm": " PROG YEAR"
+},
+"opd": {
+"reattendance": " Re-Attendance"
+},
+"opd": {
+"referral": {
+"from": " Referral from"
+}
+},
+"opd": {
+"referral": {
+"to": " Referral to"
+}
+},
+"opd": {
+"registrationdate": " Registration Date"
+},
+"opd": {
+"search": " Search"
+},
+"opd": {
+"second": {
+"name": " Last Name"
+}
+},
+"opd": {
+"selectadisease": " Select a Disease"
+},
+"opd": {
+"selectapatient": " Select a Patient"
+},
+"opd": {
+"selectsex": " Select Sex"
+},
+"opd": {
+"sex": " Sex"
+},
+"opd": {
+"sexm": " SEX"
+},
+"opd": {
+"visitdate": " Visit Date"
+},
+"operation": {
+"allm": " ALL"
+},
+"operation": {
+"codetoolongmaxchars": " Code too long (max 10 chars)"
+},
+"operation": {
+"deleteoperation": " Delete operation"
+},
+"operation": {
+"doyouwanttooverwritethedata": " Do you want to overwrite the data?"
+},
+"operation": {
+"editingoperationrecord": " Editing operation record"
+},
+"operation": {
+"idm": " ID"
+},
+"operation": {
+"major": " Major"
+},
+"operation": {
+"minor": " Minor"
+},
+"operation": {
+"namem": " NAME"
+},
+"operation": {
+"newoperationrecord": " New operation record"
+},
+"operation": {
+"operationalreadypresent": " Operation already present"
+},
+"operation": {
+"operationcontext": " Context"
+},
+"operation": {
+"operationsbrowser": " Operations browser"
+},
+"operation": {
+"pleaseinsertacode": " Please insert a code"
+},
+"operation": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"operation": {
+"result": {
+"failure": " Failure"
+}
+},
+"operation": {
+"result": {
+"sucess": " Success"
+}
+},
+"operation": {
+"result": {
+"undefined": " Unknown"
+}
+},
+"operation": {
+"select": " Select"
+},
+"operation": {
+"selecttype": " Select type"
+},
+"operation": {
+"type": " Type"
+},
+"operation": {
+"typem": " TYPE"
+},
+"operationrowedit": {
+"cancel": " Cancel"
+},
+"operationrowedit": {
+"new": " New"
+},
+"operationrowedit": {
+"operation": " Operation"
+},
+"operationrowedit": {
+"remark": " Remarks"
+},
+"operationrowedit": {
+"result": " Result"
+},
+"operationrowedit": {
+"save": " Save"
+},
+"operationrowedit": {
+"saveerror": " Error occurs during processing"
+},
+"operationrowedit": {
+"savesucces": " Operation Saved!"
+},
+"operationrowedit": {
+"unitetrans": " Trans Unit"
+},
+"operationrowedit": {
+"updateerror": " Error occurs during processing"
+},
+"operationrowedit": {
+"updatesucces": " Operation updated"
+},
+"operationrowedit": {
+"warningdateafter": " You must choose a date after OPD'S date!"
+},
+"operationrowedit": {
+"warningdateope": " You must choose an operation and a date"
+},
+"operationrowlist": {
+"add": " Add"
+},
+"operationrowlist": {
+"addnew": " Adding an operation"
+},
+"operationrowlist": {
+"close": " Cancel"
+},
+"operationrowlist": {
+"confirmdelete": " Do you really want to delete this operation"
+},
+"operationrowlist": {
+"date": " Date"
+},
+"operationrowlist": {
+"delete": " Delete"
+},
+"operationrowlist": {
+"errosdel": " Error occurs during processing"
+},
+"operationrowlist": {
+"natureop": " Operation designation"
+},
+"operationrowlist": {
+"successdel": " Operation deleted"
+},
+"operationrowlist": {
+"update": " Update"
+},
+"operationrowlist": {
+"updateop": " Updating an operation"
+},
+"opetype": {
+"codemaxchars": " Code (max 2 chars)"
+},
+"opetype": {
+"codetoolongmaxchars": " Code too long (max 2 chars)"
+},
+"opetype": {
+"deleteoperationtype": " Delete Operation Type"
+},
+"opetype": {
+"editingoperationtyperecord": " Editing Operation Type record"
+},
+"opetype": {
+"newoperationtyperecord": " New Operation Type record"
+},
+"opetype": {
+"operationtypebrowsing": " Operation Type Browsing"
+},
+"opetype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"opetype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"patient": {
+"address": " Address"
+},
+"patient": {
+"age": " Age"
+},
+"patient": {
+"agestar": " Age *"
+},
+"patient": {
+"agetooltip": " insert age"
+},
+"patient": {
+"alive": " Alive"
+},
+"patient": {
+"birthdate": " Birth Date"
+},
+"patient": {
+"bloodtype": " Blood type"
+},
+"patient": {
+"bloodtype": {
+"unknown": " Unknown"
+}
+},
+"patient": {
+"city": " City"
+},
+"patient": {
+"confirmage": " Confirm age?"
+},
+"patient": {
+"confirmdeletion": " Confirm deletion"
+},
+"patient": {
+"dead": " Dead"
+},
+"patient": {
+"deletepatient": " Delete patient"
+},
+"patient": {
+"doyoureallywanttodeletepatientsphoto": " Do you really want to delete Patient's photo?"
+},
+"patient": {
+"doyouwanttocontinue": " Do you want to continue"
+},
+"patient": {
+"doyouwanttooverwritethedata": " Do you want to overwrite the data"
+},
+"patient": {
+"economicstatus": " Economic Status"
+},
+"patient": {
+"educationlevel": " Education Level"
+},
+"patient": {
+"father": " Father"
+},
+"patient": {
+"fathername": " Fathername"
+},
+"patient": {
+"female": " Female"
+},
+"patient": {
+"file": " File"
+},
+"patient": {
+"firstname": " First Name *"
+},
+"patient": {
+"hasinsurance": " Has Insurance"
+},
+"patient": {
+"hasinsuranceno": " No"
+},
+"patient": {
+"hasinsuranceyes": " Yes"
+},
+"patient": {
+"heightandweight": " Height and Weight"
+},
+"patient": {
+"indicatesrequiredfields": " * Indicates required fields"
+},
+"patient": {
+"insertage": " Insert age or birth date"
+},
+"patient": {
+"insertdataofnewpatient": " Insert data of new Patient"
+},
+"patient": {
+"insertfirstname": " Insert First Name"
+},
+"patient": {
+"insertsecondname": " Insert Second Name"
+},
+"patient": {
+"insertvalidage": " Insert valid age"
+},
+"patient": {
+"loadfile": " Load File"
+},
+"patient": {
+"male": " Male"
+},
+"patient": {
+"maritalstatus": " Marital Status"
+},
+"patient": {
+"maritalstatusdivorced": " Divorced"
+},
+"patient": {
+"maritalstatusmarried": " Married"
+},
+"patient": {
+"maritalstatussingle": " Single"
+},
+"patient": {
+"maritalstatusunknown": " Unknown"
+},
+"patient": {
+"maritalstatuswidowed": " Widowed"
+},
+"patient": {
+"merge": {
+"title": " Merge Patient"
+}
+},
+"patient": {
+"modeage": " Age"
+},
+"patient": {
+"modebdate": " BirthDate"
+},
+"patient": {
+"modedescription": " Description"
+},
+"patient": {
+"mother": " Mother"
+},
+"patient": {
+"mothername": " Mothername"
+},
+"patient": {
+"name": " Name"
+},
+"patient": {
+"newpatient": " New Patient"
+},
+"patient": {
+"newphoto": " New Photo"
+},
+"patient": {
+"nextkin": " Next Kin"
+},
+"patient": {
+"no": " No"
+},
+"patient": {
+"note": " Note"
+},
+"patient": {
+"nowebcamfound": " No Webcam found"
+},
+"patient": {
+"parenttogether": " Parents Together"
+},
+"patient": {
+"patientbrowser": " Patient Browser"
+},
+"patient": {
+"patientphoto": " Patient photo"
+},
+"patient": {
+"patientselection": " Patient Selection"
+},
+"patient": {
+"photodeleted": " Deleted"
+},
+"patient": {
+"photonotdeleted": " Photo not deleted"
+},
+"patient": {
+"poor": " Poor"
+},
+"patient": {
+"profession": " Profession"
+},
+"patient": {
+"profession": {
+"business": " Business"
+}
+},
+"patient": {
+"profession": {
+"construction": " Construction"
+}
+},
+"patient": {
+"profession": {
+"engineering": " Engineering"
+}
+},
+"patient": {
+"profession": {
+"farming": " Farming"
+}
+},
+"patient": {
+"profession": {
+"foodhospitality": " Food/Hospitality"
+}
+},
+"patient": {
+"profession": {
+"homemaker": " Homemaker"
+}
+},
+"patient": {
+"profession": {
+"janitorial": " Janitorial Services"
+}
+},
+"patient": {
+"profession": {
+"mechanic": " Mechanic"
+}
+},
+"patient": {
+"profession": {
+"medicine": " Medicine"
+}
+},
+"patient": {
+"profession": {
+"mining": " Mining"
+}
+},
+"patient": {
+"profession": {
+"other": " Other"
+}
+},
+"patient": {
+"profession": {
+"unknown": " Unknown"
+}
+},
+"patient": {
+"quality": " Quality"
+},
+"patient": {
+"rich": " Rich"
+},
+"patient": {
+"searchpatient": " Search Patient"
+},
+"patient": {
+"secondname": " Second Name *"
+},
+"patient": {
+"select": " Select"
+},
+"patient": {
+"sex": " Sex"
+},
+"patient": {
+"sexstar": " Sex *"
+},
+"patient": {
+"taxcode": " Tax Number ID"
+},
+"patient": {
+"telephone": " Telephone"
+},
+"patient": {
+"thepatientisalreadypresent": " The Patient is already present"
+},
+"patient": {
+"title": " New Patient"
+},
+"patient": {
+"titleedit": " Edit Patient"
+},
+"patient": {
+"tobm": " TOB"
+},
+"patient": {
+"toproceedyouneedtosavecontinue": " To proceed you need to save, continue?"
+},
+"patient": {
+"unknown": " Unknown"
+},
+"patient": {
+"veryoldpatient": " Very old patient"
+},
+"patient": {
+"yes": " Yes"
+},
+"patientbill": {
+"find": " Find"
+},
+"patientfolder": {
+"reportfor": " Report for"
+},
+"patientfolder": {
+"tab": {
+"drugs": " Drugs"
+}
+},
+"patientfolder": {
+"tab": {
+"exams": " Exams"
+}
+},
+"patientfolder": {
+"tab": {
+"operations": " Operations"
+}
+},
+"patvac": {
+"age": " Age"
+},
+"patvac": {
+"agefrom": " Age From:"
+},
+"patvac": {
+"agefrommustbelowerthanageto": " 'Age from' must be lower than 'Age to'"
+},
+"patvac": {
+"agem": " AGE"
+},
+"patvac": {
+"ageto": " Age To:"
+},
+"patvac": {
+"all": " All"
+},
+"patvac": {
+"allvaccine": " All vaccines"
+},
+"patvac": {
+"allvaccinetype": " All Type"
+},
+"patvac": {
+"count": " Count"
+},
+"patvac": {
+"datapatient": " Patient's data"
+},
+"patvac": {
+"deleteselectedpatientvaccinerow": " Deleting this patient vaccine"
+},
+"patvac": {
+"edipatientvaccine": " Edit patient vaccine"
+},
+"patvac": {
+"female": " Female"
+},
+"patvac": {
+"from": " From"
+},
+"patvac": {
+"insertvalidage": " Insert valid age"
+},
+"patvac": {
+"male": " Male"
+},
+"patvac": {
+"name": " Name"
+},
+"patvac": {
+"newpatientvaccine": " New patient vaccine"
+},
+"patvac": {
+"patient": " Patient"
+},
+"patvac": {
+"patientcode": " Patient Code"
+},
+"patvac": {
+"patientdata": " Patient's data"
+},
+"patvac": {
+"patientm": " PATIENT"
+},
+"patvac": {
+"patientvaccinebrowsing": " Patient vaccines browsing"
+},
+"patvac": {
+"pleaseinsertavalidprogressive": " Please insert a valid progressive"
+},
+"patvac": {
+"pleaseinsertvaccinedate": " Please insert a vaccine date"
+},
+"patvac": {
+"pleaseinsertvaliddatefrom": " Please insert a valid From date"
+},
+"patvac": {
+"pleaseinsertvaliddateto": " Please insert a valid To date"
+},
+"patvac": {
+"pleaseselectapatient": " Please select a patient"
+},
+"patvac": {
+"pleaseselectavaccine": " Please select a vaccine"
+},
+"patvac": {
+"printtable": " Print table"
+},
+"patvac": {
+"progressive": " Progressive"
+},
+"patvac": {
+"rowcounter": " Count"
+},
+"patvac": {
+"search": " Search"
+},
+"patvac": {
+"selectapatient": " Select a patient"
+},
+"patvac": {
+"selectavaccine": " Select a vaccine"
+},
+"patvac": {
+"selectavaccinetype": " Select a vaccine type"
+},
+"patvac": {
+"selectsex": " Select Sex"
+},
+"patvac": {
+"sex": " Sex (M/ F)"
+},
+"patvac": {
+"sexm": " SEX"
+},
+"patvac": {
+"thedatacouldnobesaved": " The data could no be saved"
+},
+"patvac": {
+"to": " To"
+},
+"patvac": {
+"vaccine": " Vaccine"
+},
+"patvac": {
+"vaccinedate": " Vaccine date"
+},
+"patvac": {
+"vaccinem": " VACCINE"
+},
+"patvac": {
+"vaccinetype": " Vaccine Type"
+},
+"patvac": {
+"vaccinetypem": " VACCINE TYPE"
+},
+"preagtreattype": {
+"codemaxchars": " Code (max 10 chars)"
+},
+"preagtreattype": {
+"codetoolongmaxchars": " Code too long (max 10 chars)"
+},
+"preagtreattype": {
+"deletetreatmenttype": " Delete Treatment Type"
+},
+"preagtreattype": {
+"editingpregnanttreatmenttyperecord": " Editing Pregnant Treatment Type record"
+},
+"preagtreattype": {
+"newpregnanttreatmenttyperecord": " New Pregnant Treatment Type record"
+},
+"preagtreattype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"preagtreattype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"preagtreattype": {
+"pregnanttreatmenttypebrowsing": " Pregnant Treatment Type Browsing"
+},
+"priceslist": {
+"acode": " aCode"
+},
+"priceslist": {
+"acurrency": " a Currency"
+},
+"priceslist": {
+"adescription": " a Description"
+},
+"priceslist": {
+"aname": " a Name"
+},
+"priceslist": {
+"changelist": " Change List"
+},
+"priceslist": {
+"copy": " Copy"
+},
+"priceslist": {
+"copyof": " Copy of"
+},
+"priceslist": {
+"currency": " Currency"
+},
+"priceslist": {
+"currencystar": " Currency*"
+},
+"priceslist": {
+"doyoureallywanttochangelist": " Do you really want to change list?"
+},
+"priceslist": {
+"doyoureallywanttodeletethislistandallitsprices": " Do you really want to delete this list and all its prices?"
+},
+"priceslist": {
+"editlist": " Edit List"
+},
+"priceslist": {
+"enterthenameforthenewlist": " Enter the Name for the new list:"
+},
+"priceslist": {
+"exams": " Exams"
+},
+"priceslist": {
+"idm": " ID"
+},
+"priceslist": {
+"invalidfactor": " Invalid Factor"
+},
+"priceslist": {
+"invalidfactorpleasetryagain": " Invalid Factor!\nPlease try again."
+},
+"priceslist": {
+"invalidmultiplier": " Invalid Multiplier"
+},
+"priceslist": {
+"invalidmultiplierpleasetryagain": " Invalid Multiplier!\nPlease try again."
+},
+"priceslist": {
+"listbrowser": " List Browser"
+},
+"priceslist": {
+"listcopiedremembertoeditinformations": " List copied. Remember to edit informations"
+},
+"priceslist": {
+"listcouldnotbesaved": " List could not be saved"
+},
+"priceslist": {
+"listm": " LIST"
+},
+"priceslist": {
+"listsaved": " List saved"
+},
+"priceslist": {
+"managelists": " Manage Lists"
+},
+"priceslist": {
+"medicals": " Medicals"
+},
+"priceslist": {
+"multiplier": " Multiplier"
+},
+"priceslist": {
+"name": " Name"
+},
+"priceslist": {
+"namestar": " Name*"
+},
+"priceslist": {
+"newlist": " New List"
+},
+"priceslist": {
+"nolist": " No List"
+},
+"priceslist": {
+"operations": " Operations"
+},
+"priceslist": {
+"others": " Others"
+},
+"priceslist": {
+"pleasecreatealistfirst": " Please create a List first"
+},
+"priceslist": {
+"pleaseinsertacode": " Please insert a Code"
+},
+"priceslist": {
+"pleaseinsertacurrency": " Please insert a Currency"
+},
+"priceslist": {
+"pleaseinsertadescription": " Please insert a Description"
+},
+"priceslist": {
+"pleaseinsertaname": " Please insert a Name"
+},
+"priceslist": {
+"pleaseselectalisttocopy": " Please select a List to copy"
+},
+"priceslist": {
+"pleaseselectalisttodelete": " Please select a List to delete"
+},
+"priceslist": {
+"pleaseselectalisttoedit": " Please select a List to edit"
+},
+"priceslist": {
+"pricesbrowser": " Prices Browser"
+},
+"priceslist": {
+"printing": " Printing"
+},
+"priceslist": {
+"roundingfactor": " Rounding Factor"
+},
+"priceslist": {
+"rounduptothenearest": " Round up to the nearest..."
+},
+"priceslist": {
+"savelist": " Save List"
+},
+"priceslist": {
+"sorryatleastonelist": " Sorry, at least one List"
+},
+"priceslist": {
+"thedatacouldnotbedeleted": " The data could not be deleted"
+},
+"priceslist": {
+"thiswillsavecurrentpricescontinue": " This will SAVE current prices, continue?"
+},
+"pricesothers": {
+"daily": " Daily"
+},
+"pricesothers": {
+"discharge": " Discharge"
+},
+"pricesothers": {
+"doyoureallywanttodeletethisitem": " Do you really want to delete this item?"
+},
+"pricesothers": {
+"editprice": " Edit Price"
+},
+"pricesothers": {
+"ipdm": " IPD"
+},
+"pricesothers": {
+"newprice": " New Price"
+},
+"pricesothers": {
+"opdm": " OPD"
+},
+"pricesothers": {
+"othm": " OTH"
+},
+"pricesothers": {
+"pleaseinsertacode": " Please insert a code"
+},
+"pricesothers": {
+"pleaseinsertadescription": " Please insert a Description"
+},
+"pricesothers": {
+"pleaseselectanitemtodelete": " Please select an item to delete"
+},
+"pricesothers": {
+"pleaseselectanitemtoedit": " Please select an item to edit"
+},
+"pricesothers": {
+"thedatacouldnotbedeleted": " The data could not be deleted"
+},
+"pricesothers": {
+"titlebrowser": " Other Prices Browser"
+},
+"pricesothers": {
+"undefined": " Undefined"
+},
+"report": {
+"billsreport": {
+"amount": " Amount"
+}
+},
+"report": {
+"billsreport": {
+"billid": " Bill ID"
+}
+},
+"report": {
+"billsreport": {
+"byreduction": {
+"title": " BILLS REPORT BY REDUCTION FROM"
+}
+}
+},
+"report": {
+"billsreport": {
+"byuser": {
+"title": " BILLS REPORT BY USER FROM"
+}
+}
+},
+"report": {
+"billsreport": {
+"date": " Date"
+}
+},
+"report": {
+"billsreport": {
+"lastpayment": " Last payment"
+}
+},
+"report": {
+"billsreport": {
+"notpaid": " Not Paid"
+}
+},
+"report": {
+"billsreport": {
+"paid": " Paid"
+}
+},
+"report": {
+"billsreport": {
+"patient": " Patient"
+}
+},
+"report": {
+"billsreport": {
+"quantity": " Quantity"
+}
+},
+"report": {
+"billsreport": {
+"title": " BILLS REPORT FROM"
+}
+},
+"report": {
+"billsreport": {
+"to": " TO"
+}
+},
+"report": {
+"billsreport": {
+"to2": " To"
+}
+},
+"report": {
+"billsreport": {
+"totals": " TOTALS"
+}
+},
+"report": {
+"billsreportuserallindate": {
+"date": " DATE"
+}
+},
+"report": {
+"billsreportuserallindate": {
+"total": " TOTAL"
+}
+},
+"report": {
+"diseaseslist": {
+"of": " of"
+}
+},
+"report": {
+"diseaseslist": {
+"page": " Page"
+}
+},
+"report": {
+"moh717monthlyworkloadreportforhospitalspage2b": {
+"total": " Total"
+}
+},
+"report": {
+"oh009inpatientreport": {
+"code": " CODE"
+}
+},
+"report": {
+"patientbill": {
+"billn": " Bill N."
+}
+},
+"report": {
+"patientbill": {
+"billsgroup": " PATIENT BILLS GROUP"
+}
+},
+"report": {
+"patientbill": {
+"cashier": " Cashier"
+}
+},
+"report": {
+"patientbill": {
+"designation": " Designation"
+}
+},
+"report": {
+"patientbill": {
+"detailsinvoice": " Details invoice"
+}
+},
+"report": {
+"patientbill": {
+"unitprice": " Unit price"
+}
+},
+"report": {
+"patientbillextended": {
+"discount": " Discount"
+}
+},
+"report": {
+"patientbillextendedtxt": {
+"patn": " PAT. N."
+}
+},
+"report": {
+"patientbillextendedtxt": {
+"time": " x"
+}
+},
+"report": {
+"patientbillpayments": {
+"notpaid": " To pay:"
+}
+},
+"report": {
+"patientbillpayments": {
+"paid": " PAID:"
+}
+},
+"report": {
+"patientbillpaymentssubtxt": {
+"payments": " Payments"
+}
+},
+"report": {
+"patientbillpaymentssubtxt": {
+"rest": " REST:"
+}
+},
+"report": {
+"patientbillpaymentstxt": {
+"balance": " BALANCE:"
+}
+},
+"serviceprinting": {
+"notavalidfile": " Not a valid File"
+},
+"serviceprinting": {
+"selectacorrectaction": " Select a correct action"
+},
+"serviceprinting": {
+"selectapathforthepdffile": " Select a path for the pdf file"
+},
+"sms": {
+"Characters": " Characters"
+},
+"sms": {
+"chars": " chars"
+},
+"sms": {
+"deleteselectedsms": " Delete selected SMS"
+},
+"sms": {
+"doyouwanttosplitinmoremessages": " Do you want to split in more messages"
+},
+"sms": {
+"edit": {
+"title": " New SMS"
+}
+},
+"sms": {
+"number": " Number"
+},
+"sms": {
+"pleaseinsertatext": " Please insert a text"
+},
+"sms": {
+"pleaseinsertavalidtelephonenumber": " Please insert a valid telephone number"
+},
+"sms": {
+"scheduleddate": " Scheduled Date"
+},
+"sms": {
+"scheduleddatetitle": " Sched. Date"
+},
+"sms": {
+"scheduledtime": " Scheduled Time"
+},
+"sms": {
+"sent": " Sent"
+},
+"sms": {
+"sms": " SMS"
+},
+"sms": {
+"telephone": " Telephone"
+},
+"sms": {
+"themessageislongerthen": " The message is longer then"
+},
+"sms": {
+"title": " SMS Manager"
+},
+"sql": {
+"anunexpectederroroccurredpleasecheckthelogs": " An unexpected error occurred please check the logs"
+},
+"sql": {
+"constraintviolation": " Constraint Violation"
+},
+"sql": {
+"couldntfindthedataithasprobablybeendeleted": " Couldn't find the data, it has probably been deleted."
+},
+"sql": {
+"operationnotpermittedprotectedelement": " Operation not permitted, protected element."
+},
+"sql": {
+"problemsoccurredwithserverconnection": " Problems occurred with server connection"
+},
+"sql": {
+"problemsoccurredwiththesqlistruction": " Problems occurred with the SQL istruction"
+},
+"sql": {
+"thedatacouldnotbesaved": " The data could not be saved"
+},
+"sql": {
+"thedatahasbeenupdatedbysomeoneelse": " The data has been updated by someone else"
+},
+"sql": {
+"thedataisnomorepresent": " Couldn't find the data, it has probably been deleted."
+},
+"sql": {
+"theselecteditemisstillusedsomewhere": " The selected item is still used somewhere"
+},
+"stat": {
+"allIncomes": " OH011A - Revenues, Incomes & Receivables (All)"
+},
+"stat": {
+"allIncomesmonth": " OH011C - Revenues, Incomes & Receivables (Month)"
+},
+"stat": {
+"allIncomespending": " OH011B - Revenues, Incomes & Receivables (Pending)"
+},
+"stat": {
+"april": " April"
+},
+"stat": {
+"august": " August"
+},
+"stat": {
+"dailyopdmorbiditysummaryover5": " MOH 705A - Over 5 - Daily Outpatient Morbidity Summary Sheet"
+},
+"stat": {
+"dailyopdmorbiditysummaryunder5": " MOH 705A - Under 5 - Daily Outpatient Morbidity Summary Sheet"
+},
+"stat": {
+"december": " December"
+},
+"stat": {
+"diseasereport": " Disease Report"
+},
+"stat": {
+"examslist": " Exams List"
+},
+"stat": {
+"examsreport": " Exams Report"
+},
+"stat": {
+"february": " February"
+},
+"stat": {
+"fromdate": " From Date"
+},
+"stat": {
+"incomesallbypricecodes": " OH004 - All incomes by price codes"
+},
+"stat": {
+"inpatientdiagnosisin": " HMIS 108 - In Patient (diagnosis In)"
+},
+"stat": {
+"inpatientdiagnosisout": " HMIS 108 - In Patient (diagnosis Out)"
+},
+"stat": {
+"inpatientreport": " OH009 - InPatient Report"
+},
+"stat": {
+"january": " January"
+},
+"stat": {
+"july": " July"
+},
+"stat": {
+"june": " June"
+},
+"stat": {
+"labmonthlybasic": " OH007 - Lab monthly basic"
+},
+"stat": {
+"labmonthlyformatted": " HMIS 55b - Lab monthly formatted"
+},
+"stat": {
+"labsummaryforopd": " OH008 - Lab summary for OPD"
+},
+"stat": {
+"launchreport": " Launch Report"
+},
+"stat": {
+"march": " March"
+},
+"stat": {
+"may": " May"
+},
+"stat": {
+"month": " Month"
+},
+"stat": {
+"monthlyworkloadreportpage1": " MOH 717 - Monthly Workload Report for Hospitals (Page1)"
+},
+"stat": {
+"monthlyworkloadreportpage2": " MOH 717 - Monthly Workload Report for Hospitals (Page2)"
+},
+"stat": {
+"november": " November"
+},
+"stat": {
+"october": " October"
+},
+"stat": {
+"opdattendance": " HMIS 105 - Opd attendance"
+},
+"stat": {
+"opdbydiagnosis": " HMIS 105 - Opd by diagnosis"
+},
+"stat": {
+"opdreferrals": " HMIS 105 - Opd referrals"
+},
+"stat": {
+"outpatientcount": " OH005 - Count outpatient"
+},
+"stat": {
+"outpatientdiagnoses": " OH006 - Count outpatient diagnosis"
+},
+"stat": {
+"outpatientreport": " OH010 - OutPatient Report"
+},
+"stat": {
+"pageonecensusinfo": " HMIS 108 - page 1 - 1. census info"
+},
+"stat": {
+"pageoneoperations": " HMIS 108 - page 1 - 3. operations"
+},
+"stat": {
+"pageonereferrals": " HMIS 108 - page 1 - 2. referrals"
+},
+"stat": {
+"parametersselectionframe": " Parameters Selection Frame"
+},
+"stat": {
+"registeredpatient": " OH001 - Registered Patients"
+},
+"stat": {
+"registeredpatientbyageandsex": " OH003 - Registered patients by Age and Sex"
+},
+"stat": {
+"registeredpatientbyprovenance": " OH002 - Registered patients by origin"
+},
+"stat": {
+"report": " Report"
+},
+"stat": {
+"reporterror": " Something went wrong during report generation"
+},
+"stat": {
+"reportlauncher": " Report Launcher"
+},
+"stat": {
+"rundiseaseslistbytype": " Run Diseases List by Type"
+},
+"stat": {
+"runexamslistreportbytype": " Run Exams List Report by Type"
+},
+"stat": {
+"september": " September"
+},
+"stat": {
+"todate": " To Date"
+},
+"stat": {
+"weeklyepidemsurveil": " HMIS 33b - Weekly epidem. surveil."
+},
+"stat": {
+"weeklyepidemsurveilover5": " HMIS 33b - Weekly epidem. surveil. over 5 y.o."
+},
+"stat": {
+"weeklyepidemsurveilunder5": " HMIS 33b - Weekly epidem. surveil. under 5 y.o."
+},
+"stat": {
+"year": " Year"
+},
+"supplier": {
+"address": " Address"
+},
+"supplier": {
+"addressm": " ADDRESS"
+},
+"supplier": {
+"deleted": " Deleted"
+},
+"supplier": {
+"deletedm": " DELETED"
+},
+"supplier": {
+"deletesupplier": " Delete Supplier"
+},
+"supplier": {
+"editsupplier": " Edit Supplier"
+},
+"supplier": {
+"email": " E-mail"
+},
+"supplier": {
+"emailm": " E-MAIL"
+},
+"supplier": {
+"faxm": " FAX"
+},
+"supplier": {
+"faxnumber": " Fax number"
+},
+"supplier": {
+"id": " ID"
+},
+"supplier": {
+"name": " Name"
+},
+"supplier": {
+"namem": " NAME"
+},
+"supplier": {
+"newsupplier": " New Supplier"
+},
+"supplier": {
+"note": " Note"
+},
+"supplier": {
+"pleaseinsertaname": " Please insert a name"
+},
+"supplier": {
+"requiredfields": " * Required fields"
+},
+"supplier": {
+"suppliersbrowser": " Supplier Browser"
+},
+"supplier": {
+"taxcode": " Tax Number ID"
+},
+"supplier": {
+"telephone": " Telephone"
+},
+"therapy": {
+"actions": " Actions"
+},
+"therapy": {
+"addtherapy": " Add Therapy"
+},
+"therapy": {
+"addvisit": " Add Visit"
+},
+"therapy": {
+"availablem": " AVAILABLE"
+},
+"therapy": {
+"changenotifysettingsfor": " Change notify settings"
+},
+"therapy": {
+"checkavailability": " Check Availability"
+},
+"therapy": {
+"daydays": " day/s"
+},
+"therapy": {
+"days": " Days"
+},
+"therapy": {
+"deletealltherapiesfor": " Delete all therapies for"
+},
+"therapy": {
+"deleteallvisitsfor": " Delete all visits for"
+},
+"therapy": {
+"doyouwanttosetanumernowfor": " Do you want to set a telephone number for"
+},
+"therapy": {
+"edittherapy": " Edit Therapy"
+},
+"therapy": {
+"end": " End"
+},
+"therapy": {
+"every": " Every"
+},
+"therapy": {
+"followingdrugsarefewornotavailable": " Following drugs are few or not available:\n"
+},
+"therapy": {
+"four": " Four"
+},
+"therapy": {
+"frequencywithinday": " Frequency within day"
+},
+"therapy": {
+"frequencywithinperiod": " Frequency within period"
+},
+"therapy": {
+"important": " Important"
+},
+"therapy": {
+"months": " Months"
+},
+"therapy": {
+"notavailable": " Not available"
+},
+"therapy": {
+"notavailablem": " NOT AVAILABLE"
+},
+"therapy": {
+"notchecked": " Not checked"
+},
+"therapy": {
+"notcheckedm": " NOT CHECKED"
+},
+"therapy": {
+"note": " Note"
+},
+"therapy": {
+"notherapies": " No Therapies"
+},
+"therapy": {
+"notifyandsms": " Notify & SMS"
+},
+"therapy": {
+"notifychanged": " Notify settings changed"
+},
+"therapy": {
+"novisits": " No Visits"
+},
+"therapy": {
+"one": " One"
+},
+"therapy": {
+"patienttherapiescouldnotbesaved": " Patient Therapies could not be saved."
+},
+"therapy": {
+"patienttherapiessaved": " Patient Therapies saved."
+},
+"therapy": {
+"patientvisitscouldnotbesaved": " Patient visits could not be saved."
+},
+"therapy": {
+"patientvisitssaved": " Patient visits saved."
+},
+"therapy": {
+"period": " Period"
+},
+"therapy": {
+"pharmaceutical": " Pharmaceutical"
+},
+"therapy": {
+"pleaseinsertaquantitygreaterthanzero": " Please insert a quantity greater than 0"
+},
+"therapy": {
+"reminderm": " REMINDER"
+},
+"therapy": {
+"removetherapy": " Remove Therapy"
+},
+"therapy": {
+"removevisit": " Remove Visit"
+},
+"therapy": {
+"selectapharmaceutical": " Select a pharmaceutical"
+},
+"therapy": {
+"settelephonenumber": " Set telephone number"
+},
+"therapy": {
+"smsm": " SMS"
+},
+"therapy": {
+"start": " Start"
+},
+"therapy": {
+"startingdate": " Starting date"
+},
+"therapy": {
+"startsdashend": " Starts - Ends"
+},
+"therapy": {
+"telephonenumberfor": " Telephone number for"
+},
+"therapy": {
+"therapiesplancouldnotbesaved": " Therapies plan has not been saved."
+},
+"therapy": {
+"therapiesplanhasnotbeensavedsaveandclose": " Therapies plan has not been saved. Save and close?"
+},
+"therapy": {
+"therapiesplansaved": " Therapies plan saved"
+},
+"therapy": {
+"therapy": " Therapy"
+},
+"therapy": {
+"therapyfor": " Therapy for"
+},
+"therapy": {
+"therapynotavailable": " Therapy not available"
+},
+"therapy": {
+"therapytitle": " Therapy Plan"
+},
+"therapy": {
+"theresnotelephonenumberassociatedwiththispatient": " There's no telephone number associated with this Patient"
+},
+"therapy": {
+"thetherapyhasnotbeencheckedcontinue": " The Therapy has not been checked, continue?"
+},
+"therapy": {
+"thetherapyisnotavailablecontinue": " The Therapy is not available, continue?"
+},
+"therapy": {
+"three": " Three"
+},
+"therapy": {
+"titleedit": " Therapy Entry Form - Modify"
+},
+"therapy": {
+"titlenew": " Therapy Entry Form - New"
+},
+"therapy": {
+"two": " Two"
+},
+"therapy": {
+"visitedate": " Visit date:"
+},
+"therapy": {
+"visitsandreview": " Visit & Review"
+},
+"therapy": {
+"warning": " Warning"
+},
+"therapy": {
+"weeks": " Weeks"
+},
+"utils": {
+"dbserverconnectionfailure": " DataBase Server stopped or Network failure"
+},
+"vaccine": {
+"all": " ALL"
+},
+"vaccine": {
+"childm": " CHILD"
+},
+"vaccine": {
+"codemaxchars": " Code (max 10 chars)"
+},
+"vaccine": {
+"deletevaccine": " Delete vaccine"
+},
+"vaccine": {
+"doyouwanttooverwritethedata": " Do you want to overwrite the data"
+},
+"vaccine": {
+"editingvaccinerecord": " Editing vaccine record"
+},
+"vaccine": {
+"newvaccinerecord": " New vaccine record"
+},
+"vaccine": {
+"notpregnantm": " NOT PREGNANT"
+},
+"vaccine": {
+"patientcategory": " Patient Category"
+},
+"vaccine": {
+"pleaseinsertacode": " Please insert a code"
+},
+"vaccine": {
+"pleaseinsertadescription": " Please insert a description"
+},
+"vaccine": {
+"pregnantm": " PREGNANT"
+},
+"vaccine": {
+"requiredfields": " * Required fields"
+},
+"vaccine": {
+"select": " Select"
+},
+"vaccine": {
+"selectavaccinetype": " Select type"
+},
+"vaccine": {
+"vaccinebrowser": " Vaccine browser"
+},
+"vaccine": {
+"vaccinetype": " Type"
+},
+"vactype": {
+"codemaxchars": " Code (max 1 chars)"
+},
+"vactype": {
+"deletevaccinetype": " Delete vaccine type"
+},
+"vactype": {
+"editvaccinetype": " Edit vaccine type"
+},
+"vactype": {
+"newvaccinetype": " New vaccine type"
+},
+"vactype": {
+"pleaseinsertacode": " Please insert a code"
+},
+"vactype": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"vactype": {
+"vaccinetypebrowser": " Vaccine Type Browsing"
+},
+"video": {
+"devices": " Devices"
+},
+"video": {
+"pausestream": " Pause stream"
+},
+"video": {
+"rescanresolutions": " Rescan resolutions"
+},
+"video": {
+"resolution": " Resolution"
+},
+"video": {
+"resumestream": " Resume stream"
+},
+"video": {
+"setfullscreen": " Set fullscreen mode"
+},
+"video": {
+"shootaphoto": " Take a picture"
+},
+"visit": {
+"changepatient": " Change Patient"
+},
+"visit": {
+"durationinminutes": " Duration (Min)"
+},
+"visit": {
+"gotodate": " Go to date"
+},
+"visit": {
+"nextabbr": " Next"
+},
+"visit": {
+"pickpatient": " find Patient..."
+},
+"visit": {
+"previousabbr": " Prev."
+},
+"visit": {
+"printthisday": " Print this day's visits"
+},
+"visit": {
+"reminderm": " REMINDER"
+},
+"visit": {
+"selectaward": " Select a ward"
+},
+"visit": {
+"service": " Service"
+},
+"visit": {
+"visitfor": " Visits for"
+},
+"visit": {
+"visits": " Visits"
+},
+"visit": {
+"visittomorrow": " Visits Tomorrow"
+},
+"visit": {
+"worksheet": " Worksheet"
+},
+"ward": {
+"beds": " BEDS"
+},
+"ward": {
+"bedsedit": " Number of beds *"
+},
+"ward": {
+"bedsnumbermustbepositive": " Beds number must be positive"
+},
+"ward": {
+"cannotdeletematernityward": " Cannot delete maternity ward"
+},
+"ward": {
+"codetoolongmaxchars": " Code too long (must be one char)"
+},
+"ward": {
+"deleteward": " Delete ward"
+},
+"ward": {
+"doctors": " DOCTORS"
+},
+"ward": {
+"doctorsedit": " Number of doctors *"
+},
+"ward": {
+"doctorsnumbermustbepositive": " Doctors number must be positive"
+},
+"ward": {
+"doyouwanttooverwritethedata": " Do you want to overwrite the data"
+},
+"ward": {
+"editingwardrecord": " Editing ward record"
+},
+"ward": {
+"email": " E-MAIL"
+},
+"ward": {
+"emailedit": " E-mail"
+},
+"ward": {
+"fax": " FAX"
+},
+"ward": {
+"faxedit": " Fax"
+},
+"ward": {
+"femaleward": " Female Ward"
+},
+"ward": {
+"haspharmacy": " HAS PHARMACY"
+},
+"ward": {
+"insertavalidbedsnumber": " Insert a valid beds number"
+},
+"ward": {
+"insertavaliddoctorsnumber": " Insert a valid doctors number"
+},
+"ward": {
+"insertavalidnursesnumber": " Insert a valid nurses number"
+},
+"ward": {
+"isfemale": " Female"
+},
+"ward": {
+"ismale": " Male"
+},
+"ward": {
+"maleward": " Male Ward"
+},
+"ward": {
+"name": " NAME"
+},
+"ward": {
+"nameedit": " Name *"
+},
+"ward": {
+"newwardrecord": " New ward record"
+},
+"ward": {
+"nurses": " NURSES"
+},
+"ward": {
+"nursesedit": " Number of nurses *"
+},
+"ward": {
+"nursesnumbermustbepositive": " Nurses number must be positive"
+},
+"ward": {
+"pattern": {
+"patientsarestilladmittedinward": " Some patients are still admitted in the ward (#), please increase number of beds"
+}
+},
+"ward": {
+"pleasecheckinadmissionpatients": " Please check in admission / patients"
+},
+"ward": {
+"pleaseinsertacode": " Please insert a code"
+},
+"ward": {
+"pleaseinsertaname": " Please insert a name"
+},
+"ward": {
+"pleaseinsertavaliddescription": " Please insert a valid description"
+},
+"ward": {
+"requiredfields": " * Required fields"
+},
+"ward": {
+"select": " Select"
+},
+"ward": {
+"selectedwardhaspatients1": " Selected Ward has"
+},
+"ward": {
+"selectedwardhaspatients2": " patients"
+},
+"ward": {
+"telephone": " TELEPHONE"
+},
+"ward": {
+"telephoneedit": " Telephone"
+},
+"ward": {
+"wardsbrowser": " Wards browser"
+},
+"ward": {
+"wardwithpharmacy": " Ward with pharmacy"
+},
+"wardpharmacynew": {
+"selectward": " Select a ward"
+},
+"wardpharmacynew": {
+"ward": " Another ward"
+},
+"xmpp": {
+"communication": " Communication"
+},
+"xmpp": {
+"contacts": " Contacts"
+},
+"xmpp": {
+"getinfo": " Get info"
+},
+"xmpp": {
+"info": " info"
+},
+"xmpp": {
+"isnowoffline": " is now offline"
+},
+"xmpp": {
+"isnowonline": " is now online"
+},
+"xmpp": {
+"sendfile": " Send File"
+},
+"xmpp": {
+"user": " User"
+},
+"xmpp": {
+"usersinfo": " user's info"
+},
+}
